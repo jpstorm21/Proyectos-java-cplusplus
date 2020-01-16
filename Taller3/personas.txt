@@ -1,0 +1,12 @@
+C1,Juan,Perez,75687569
+R1,Evelyn,Torrejon,78987898,evto@gmail.com,350000
+G1,Juan,Gallardo,74647464,juga@gmail.com,2800000
+C2,Alexis,Sanchez,78667866
+C3,Eduardo,Gonzalez,75657565
+C4,Ramona,Flowers,76867686
+R2,Scott,Pilgrim,73537353,scpi@gmail.com,320000
+C5,Ash,Ketchup,78237823
+C6,Rina,Imbers,75457545
+O1,Loreto,Telgie,74857485,lote@gmail.com,380000
+O2,Cristian,Chiang,76837683,crch@gmail.com,400000
+C7,Eric,Ross,79347934

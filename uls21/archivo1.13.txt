@@ -1,0 +1,1 @@
+El total de numeros primos es: 7

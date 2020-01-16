@@ -1,0 +1,1 @@
+La suma de la diagonal positiva es: 49 y la suma de la diagonal negativa es: -30 por lo tanto ambas no son iguales entre si

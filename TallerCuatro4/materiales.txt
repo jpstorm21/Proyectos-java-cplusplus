@@ -1,0 +1,10 @@
+100,Clavo,91,Un clavo
+101,Tornillo,99,Un tornillo
+102,Goma ducha,145,Una goma ducha
+103,Motor,50,Un motor
+104,Cable cobre,205,Un cable de cobre para instalacion electrica
+105,Aceite de motor,125,Aceite para lubricar
+106,Soldadura,170,Para que se pueda soldar
+107,Codo 45 grados,158,Para la canieria
+108,Codo 90 grados,184,Para la canieria
+109,Placa control de ascensor,221,Placa electronica para controlar el ascensor

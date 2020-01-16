@@ -1,0 +1,32 @@
+PS4G0060;Assassin's Creed: Unity PS4;9990;PS4
+PS4G0120;Until Dawn PS4;14990;PS4
+PS4G0024;The Elder Scrolls Online PS4;14990;PS4
+PS4X009;Consola PlayStation 4 Uncharted Collection PS4;329990;PS4
+XBONEG103;Pro Evolution Soccer 2015 XBOX ONE;12990;XBONE
+XBONEG012;Battlefield 4 XBOX ONE;19990;XBONE
+XBONEG175;Wolfenstein: The Old Blood XBOX ONE;18990;XBONE
+XBONEX018;ONE 1 TB The Division Bundle + 3 meses Live;269990;XBONE
+WIUG0034;Funky Barn Wii U;14990;WIIU
+WIUG0009;Rabbids Land Wii U;19990;WIIU
+WIUG0007;ZombiU Wii U;19990;WIIU
+WIUX002;Nintendo Wii U Deluxe Black 32 Gb Nintendo Land;299990;WIIU
+PS3G0137;Resident Evil 5 PS3;9990;PS3
+PS3G0075;The Golden Compass PS3;9990;PS3
+PS3G0094;Rainbow Six Vegas 2 PS3;9990;PS3
+PS3X038;Consola PlayStation 3 500GB +TLOU +GOWA +GT6 +LBP3;289990;PS3
+XB360G1369;Adv.Time: Finn and Jake Investigations XBOX 360;27990;XB360
+XB360G1385;LEGO Star Wars: The Force Awakens XBOX 360;39990;XB360
+XB360G1397;Halo Reach (Inglés) XBOX 360;19990;XB360
+XB360X0036;Consola XBOX 360 4GB;139990;XB360
+JUE1999;Overwatch Origins Edition PC;44990;PC
+JUE2043;Song of the Deep PC;14990;PC
+JUE1970;Mirror’s Edge Catalyst PC;44990;PC
+JUE2056;World of Warcraft: Legion Collector's Ed. PC/Mac;79990;PC
+PSVG0027;Mortal Kombat PS Vita;19990;PSV
+PSVG0016;Touch My Katamari PS Vita;14990;PSV
+PSVG0003;Street Fighter X Tekken PS Vita;19990;PSV
+PSVX0011;Consola Playstation Vita Slim WIFI Black;169990;PSV
+N3DSG0325;Monster Hunter Generations 3DS;34990;3DS
+N3DSG0321;Pokémon Sun 3DS;36990;3DS
+N3DSG0324;Metroid Prime: Federation Force 3DS;36990;3DS
+N3DSX044;Nintendo NEW 3DS XL Black +Zelda Ocarina +Cargador;219990;3DS

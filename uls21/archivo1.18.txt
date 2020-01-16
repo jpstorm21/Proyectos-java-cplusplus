@@ -1,0 +1,2 @@
+El A[3][1] es perfecto: 6
+Total de numeros perfectos: 1

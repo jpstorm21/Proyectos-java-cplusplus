@@ -1,0 +1,27 @@
+<!DOCTYPE  html>
+
+<html>
+    <head>
+        <meta charset="UTF-8">
+    </head>
+    <body>
+        <section id="tests">
+            <h1>Ejemplo json</h1>
+            <div id="content" >
+            </div>
+        </section>
+        <script type="text/javascript">
+            var objetos = {"Personas": [
+                    {"nombre": "Jorge", "edad": 23},
+                    {"nombre": "Carlos", "edad": 17}
+                ]};
+            document.getElementById('content').innerHTML = objetos.Personas[1].nombre;
+            var persona = {"name": "J", "edad": 23,
+                "msj": function () {
+                    alert("Hola soy " + this.name);
+                }
+            };
+            persona.msj();
+        </script>
+    </body>  
+</html>

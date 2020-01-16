@@ -1,0 +1,17 @@
+Codigo matriz:
+
+0 = no hay mina y la casilla no ha sido clickeada
+1 = una mina cerca
+2 = dos minas cerca
+3 = tres minas cerca
+4 = cuatro minas cerca
+5 = cinco minas cerca
+6 = seis minas cerca
+7 = siete minas cerca
+8 = ocho minas cerca
+9 = hay mina y la casilla no ha sido clickeada
+10 = no hay mina y la casilla ha sido clickeada
+11 = hay mina y la casilla ha sido clickeada
+12 = no hay mina y se ha puesto bandera
+13 = hay mina y se ha puesto bandera
+14 = mina lose

@@ -1,0 +1,10 @@
+001,La Serena,7,128
+002,Coquimbo,8,103
+003,La Higuera,5,66
+004,Andacollo,6,74
+005,Paihuano,5,59
+006,Ovalle,6,76
+007,Monte Patria,6,73
+008,Punitaqui,5,57
+009,Los Vilos,6,80
+010,Canela,4,57

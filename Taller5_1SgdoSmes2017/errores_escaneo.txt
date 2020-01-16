@@ -1,0 +1,5 @@
+((x))) faltaron parentesis que abrir
+((x)((((xx)((xx)((((((x))(x))(()()())()))))()))) faltaron parentesis que abrir
+(((xx)(()(xxx)(xx))(x)) faltaron parentesis que abrir
+((x)())(()((x)))) faltaron parentesis que abrir
+(())(x)) faltaron parentesis que abrir

@@ -1,0 +1,5 @@
+4
+suny,tobal,estandar,chile,4,4,4800,13:50
+Merry,tiwok,Mega,3,cleveland,Usa,5,3,3500,12:10
+MoviDuck,leo,estandar,japon,2,2,2000,10:50
+titanic,igor,Mega,2,cordova,argentina,5,3,4200,13:00

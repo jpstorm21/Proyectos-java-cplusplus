@@ -1,0 +1,10 @@
+1,Valparaiso,7500
+2,Rancagua,8900
+3,Concepcion,12500
+4,Talca,10200
+5,Santiago,9600
+6,Temuco,15000
+7,Valdivia,13200
+8,Osorno,10000
+9,Pucon,14100
+10,Chillan,8500

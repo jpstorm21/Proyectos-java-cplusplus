@@ -1,0 +1,2 @@
+Varianza : 5313
+ Desviacion Estandar : 72.8903

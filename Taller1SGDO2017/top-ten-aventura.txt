@@ -1,0 +1,3 @@
+juegos                             cantidad vendiddas
+The Legend of Zelda: Breath of the Wild                             66
+Hunting Simulator                             18

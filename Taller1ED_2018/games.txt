@@ -1,0 +1,33 @@
+YT2KJC,Portal,Valve Corporation,PC,10/10/2007,30,10,4990
+67XCDW,Left 4 Dead 2,Valve Software,PC,17/11/2009,18,15,4990
+WOKVWX,Minecraft,Mojang,PC,18/11/2011,37,13,14990
+DXVBON,Sunset Overdrive,Microsoft Studios,XONE,28/10/2014,11,10,25990
+5CZ4A8,Halo 5: Guardians,Microsoft Studios,XONE,27/10/2015,36,28,25990
+IHZ1JB,Rise of the Tomb Rider,Square Enix,XONE,10/11/2015,35,30,31990
+WZ8ZWX,Rise of the Tomb Rider,Square Enix,PC,28/01/2016,28,24,29990
+30TFMD,DOOM (2016),Bethesda,PC,13/05/2016,47,33,35990
+4CW4K5,Overwatch,Blizzard Entertainment,PS4,24/05/2016,45,43,24990
+QQOHJ0,Overwatch,Blizzard Entertainment,XONE,24/05/2016,14,10,28990
+3CBJ0X,Rise of the Tomb Rider,Square Enix,PS4,11/10/2016,11,9,21990
+2XKXPO,Dragon Ball Xenoverse 2,Bandai Namco,PS4,25/10/2016,38,14,39990
+78JUFV,Dragon Ball Xenoverse 2,Bandai Namco,XONE,25/10/2016,49,32,39990
+QOG63O,Dragon Ball Xenoverse 2,Bandai Namco,PC,27/10/2016,24,23,35990
+Y014HL,Final Fantasy XV,Square Enix,XONE,29/11/2016,19,10,45990
+HGTYEP,Final Fantasy XV,Square Enix,PS4,29/11/2016,17,17,45990
+47PNDS,Horizon: Zero Dawn,Sony Interactive Entertainment,PS4,28/02/2017,38,32,39990
+TYUXFE,Super Bomberman R,Konami,SWITCH,03/03/2017,29,26,34990
+N1BLRT,TLOZ: BOTW,Nintendo,SWITCH,03/03/2017,31,14,44990
+ML8NB5,Vanquish,Sega,PC,25/05/2017,48,12,14990
+N6FNOX,Crash Bandicoot Trilogy,Activision,PS4,30/06/2017,15,15,34990
+EN65MU,Dragon Ball Xenoverse 2,Bandai Namco,SWITCH,22/09/2017,40,9,44990
+LUSO9U,Pokkén Tournament DX,Bandai Namco,SWITCH,22/09/2017,10,9,44990
+5CAH2O,Cuphead,Studio MDHR,PC,29/09/2017,29,23,21990
+TU1XL5,Cuphead,Studio MDHR,XONE,29/09/2017,31,9,28990
+DFB3U4,FIFA 18,Electronic Arts,PS4,29/09/2017,17,12,34990
+9I1T0H,FIFA 18,Electronic Arts,SWITCH,29/09/2017,42,18,44990
+FZC89G,FIFA 18,Electronic Arts,XONE,29/09/2017,34,26,34990
+I584BK,Super Mario Odyssey,Nintendo,SWITCH,27/10/2017,48,25,44990
+ZM6B8T,DOOM (2016),Bethesda,SWITCH,10/11/2017,43,26,39990
+6ZXU83,Final Fantasy XV,Square Enix,PC,06/03/2018,22,9,29990
+5TUP4W,Sea of Thieves,Rare,XONE,20/03/2018,10,9,24990
+NMGZD9,God of War (2018),Sony Computer Entertainment America,PS4,20/04/2018,48,30,44990

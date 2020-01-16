@@ -1,0 +1,50 @@
+13339634-9,Delia,Weber,48,74408440,jed84@example.com,T,Jefe administracion
+12697576-7,Velva,Bogisich,25,85032798,conroy.daija@example.net,C,0
+17728777-6,Hilma,Ferry,67,85183292,btromp@example.net,C,0
+19806257-k,Rod,Nitzsche,40,75415033,west.rachael@example.com,C,1,75949318-4,Kshlerin,Kilback and Stanton #2134
+19937133-9,Jaleel,Raynor,27,84742088,kemmer.roberto@example.net,C,0
+15318781-9,Kaleigh,Sanford,57,94792415,damore.marlon@example.org,T,Secretario
+15257850-4,Eliza,Kunze,56,94766843,randall.lockman@example.org,TS,Trabajador de Servicio
+12339819-k,Theresia,Botsford,62,70707566,heller.darwin@example.net,C,1,87294342-0,Kohler,Weber and Howe #456
+12918722-0,Martine,Spinka,43,76211276,rusty18@example.com,T,Jefe finanzas
+13217214-5,Reggie,Walter,64,88256886,effertz.nels@example.org,TS,Trabajador de Servicio
+19188358-6,Dee,Toy,42,72017531,qhartmann@example.org,T,Secretario
+15079407-2,Lukas,Simonis,43,94182622,heath.hoppe@example.com,TS,Trabajador de Servicio
+19029522-2,Melissa,Satterfield,44,86085318,alberto09@example.net,TS,Trabajador de Servicio
+19828263-4,Devan,Trantow,53,89285127,laney20@example.com,TS,Trabajador de Servicio
+12974196-1,Aditya,Jacobs,46,85468294,chase.swaniawski@example.net,TS,Trabajador de Servicio
+18143917-3,Wendy,Daniel,29,80473034,hahn.lee@example.com,TS,Trabajador de Servicio
+15541081-7,Elaina,Kunde,34,82736185,ramon51@example.net,TS,Trabajador de Servicio
+17353190-7,Kirk,Jerde,65,71930431,collins.monty@example.org,T,Contador
+13176339-5,Filiberto,Howe,31,86201626,ftreutel@example.org,C,0
+14886824-7,Amanda,Hammes,40,85043383,murray.streich@example.org,C,1,86891135-2,Paucek-Feeney,Av. Brasil #455
+18474587-9,Brisa,Lockman,38,73968181,jschumm@example.com,TS,Trabajador de Servicio
+18125623-0,Mabel,Nolan,75,93391536,glover.wendell@example.org,TS,Trabajador de Servicio
+15272673-2,Kendra,Bradtke,38,81510041,florine46@example.com,TS,Trabajador de Servicio
+17529776-6,Hiram,Gerhold,53,86520137,bednar.josiah@example.net,T,Jefe administracion
+13236920-8,Jeanette,Klein,55,76122679,west.therese@example.net,C,0
+15268730-3,Charlene,Jacobi,40,73877455,eddie97@example.net,TS,Trabajador de Servicio
+18608368-7,Niko,Conroy,28,76042251,koreilly@example.com,TS,Trabajador de Servicio
+12526746-7,Tyreek,Glover,43,93237881,gkulas@example.com,T,Jefe administracion
+12029440-7,Toni,Corwin,29,78452412,ahaley@example.com,C,1,91215516-1,Corkery,Pouros and Larson #878
+18842259-4,Turner,Walker,72,84745635,ofay@example.net,C,0
+18291370-7,Alysa,Parisian,36,83072900,kabbott@example.com,C,1,94335793-5,Kihn,Trantow and Pagac #889
+18219259-7,Mckenna,Strosin,37,72927501,block.pauline@example.com,C,1,92058790-9,Luettgen-Rolfson,Matta #849
+19471099-2,Shanny,Hegmann,28,83118547,ricardo.haag@example.org,C,0
+15053403-8,Jennie,Treutel,52,80101427,uschroeder@example.com,C,1,77498419-4,Cassin-Hand,Huanhuali #2390
+15206931-6,Braulio,Paucek,65,76296163,jtoy@example.com,TS,Trabajador de Servicio
+14714044-4,Pearl,Rogahn,41,75856568,jlang@example.com,C,0
+19542399-7,Linnea,Sauer,52,75563502,bhaag@example.com,C,0
+14563297-8,Boyd,Hane,26,85696169,hagenes.kiara@example.com,C,1,85805401-k,Satterfield,Will and Shanahan #555
+15699178-3,Korbin,Weber,70,92637840,lebsack.frances@example.net,TS,Trabajador de Servicio
+13687728-3,Maxime,Lemke,54,80425915,orin48@example.com,T,Contador
+19130773-9,Erick,Hermann,67,72046371,nikita18@example.org,TS,Trabajador de Servicio
+14707835-8,Delores,Gleichner,27,79130557,mueller.abigayle@example.org,TS,Trabajador de Servicio
+19714547-1,Ole,Mohr,57,74101836,senger.orland@example.org,T,Jefe administracion
+19601620-1,Dina,Schaefer,53,94451715,lstamm@example.org,T,Secretario
+12616170-0,Oma,Bode,55,82645584,wolf.jamie@example.net,C,0
+16389770-9,Retha,Bahringer,66,86202372,cory55@example.com,T,Jefe finanzas
+14318502-8,Vance,Goyette,47,84603725,nienow.esmeralda@example.net,C,0
+17736268-9,Tierra,Towne,63,88643188,vspencer@example.com,T,Jefe administracion
+12947904-3,Odessa,Jaskolski,59,90421239,zcorwin@example.org,C,0
+15092534-7,Waylon,Treutel,38,82597301,hollie.aufderhar@example.com,TS,Trabajador de Servicio

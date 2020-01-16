@@ -1,0 +1,10 @@
+1,Reparar refrigerador
+2,Arreglar lavadora
+3,Reparar ducha
+4,Arreglar canieria
+5,Arreglar motor autos
+6,Reparar calefon
+7,Instalacion electrica
+8,Mantenimiento maquina industrial
+9,Instalacion panel solar
+10,Mantenimiento ascensores

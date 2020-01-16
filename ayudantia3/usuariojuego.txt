@@ -1,0 +1,7 @@
+pedro,fifa 19,1
+cristobal,call of duty,1
+pedro,super smash bros,1
+eduardo,nba 2k19,1
+jose,fifa 19,1
+nicolas,fifa 19,1
+eduardo,fornite,1

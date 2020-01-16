@@ -1,0 +1,20 @@
+PS4G0435,Final Fantasy XII - The Zodiac Age,2017,39000,85,46
+PS4G0774,Call of Duty: Modern Warfare Remastered,2017,34990,60,38
+PS4G0570,Danganronpa AE: Ultra Despair Girls,2017,24990,50,16
+PS4G0658,Dark Souls III,2016,44000,30,26
+PS4G0574,Crash Bandicoot N-Sane Trilogy,2017,34990,35,15
+WIUG0184,Darksiders Warmastered Edition,2016,24990,40,27
+WIUG0057,The Legend of Zelda: Breath of the Wild,2017,44990,50,66
+WIUG0167,Paper Mario: Color Splash,2016,44990,70,20
+WIUG0182,Super Smash Bros. Wii U,2014,24990,20,10
+WIUG0115,Xenoblade Chronicles X,2015,44990,45,48
+XBONEG488,Hunting Simulator,2017,34990,60,18
+XBONEG479,Dead by Daylight,2016,24990,45,15
+XBONEG429,Dirt 4,2017,44990,38,8
+XBONEG482,The Elder Scrolls Online: Morrowind,2017,44990,55,35
+XBONEG343,Tekken 7,2017,44990,60,21
+JUE2083,Diablo III Battlechest,2016,19990,20,47
+JUE2057,Sniper Ghost Warrior 3 Season Pass Edition,2017,36990,30,27
+JUE1973,Dishonored II,2016,39990,25,31
+JUE1999,Overwatch Origins Edition,2016,44990,25,49
+JUE1996,Far Cry Primal,2016,19990,15,24

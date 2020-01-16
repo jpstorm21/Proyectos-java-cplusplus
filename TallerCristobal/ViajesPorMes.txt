@@ -1,0 +1,144 @@
+mes : 1
+ciudades
+Valparaiso cantidad de visitas 3 con un valor de :22500
+Rancagua cantidad de visitas 1 con un valor de :8900
+Concepcion cantidad de visitas 0 con un valor de :0
+Talca cantidad de visitas 0 con un valor de :0
+Santiago cantidad de visitas 0 con un valor de :0
+Temuco cantidad de visitas 0 con un valor de :0
+Valdivia cantidad de visitas 2 con un valor de :26400
+Osorno cantidad de visitas 0 con un valor de :0
+Pucon cantidad de visitas 0 con un valor de :0
+Chillan cantidad de visitas 0 con un valor de :0
+mes : 2
+ciudades
+Valparaiso cantidad de visitas 2 con un valor de :15000
+Rancagua cantidad de visitas 0 con un valor de :0
+Concepcion cantidad de visitas 1 con un valor de :12500
+Talca cantidad de visitas 0 con un valor de :0
+Santiago cantidad de visitas 0 con un valor de :0
+Temuco cantidad de visitas 0 con un valor de :0
+Valdivia cantidad de visitas 0 con un valor de :0
+Osorno cantidad de visitas 1 con un valor de :10000
+Pucon cantidad de visitas 0 con un valor de :0
+Chillan cantidad de visitas 1 con un valor de :8500
+mes : 3
+ciudades
+Valparaiso cantidad de visitas 0 con un valor de :0
+Rancagua cantidad de visitas 0 con un valor de :0
+Concepcion cantidad de visitas 1 con un valor de :12500
+Talca cantidad de visitas 1 con un valor de :10200
+Santiago cantidad de visitas 2 con un valor de :19200
+Temuco cantidad de visitas 0 con un valor de :0
+Valdivia cantidad de visitas 0 con un valor de :0
+Osorno cantidad de visitas 0 con un valor de :0
+Pucon cantidad de visitas 3 con un valor de :42300
+Chillan cantidad de visitas 0 con un valor de :0
+mes : 4
+ciudades
+Valparaiso cantidad de visitas 1 con un valor de :7500
+Rancagua cantidad de visitas 1 con un valor de :8900
+Concepcion cantidad de visitas 0 con un valor de :0
+Talca cantidad de visitas 0 con un valor de :0
+Santiago cantidad de visitas 2 con un valor de :19200
+Temuco cantidad de visitas 0 con un valor de :0
+Valdivia cantidad de visitas 0 con un valor de :0
+Osorno cantidad de visitas 1 con un valor de :10000
+Pucon cantidad de visitas 0 con un valor de :0
+Chillan cantidad de visitas 2 con un valor de :17000
+mes : 5
+ciudades
+Valparaiso cantidad de visitas 0 con un valor de :0
+Rancagua cantidad de visitas 2 con un valor de :17800
+Concepcion cantidad de visitas 0 con un valor de :0
+Talca cantidad de visitas 1 con un valor de :10200
+Santiago cantidad de visitas 2 con un valor de :19200
+Temuco cantidad de visitas 0 con un valor de :0
+Valdivia cantidad de visitas 0 con un valor de :0
+Osorno cantidad de visitas 0 con un valor de :0
+Pucon cantidad de visitas 0 con un valor de :0
+Chillan cantidad de visitas 1 con un valor de :8500
+mes : 6
+ciudades
+Valparaiso cantidad de visitas 0 con un valor de :0
+Rancagua cantidad de visitas 1 con un valor de :8900
+Concepcion cantidad de visitas 1 con un valor de :12500
+Talca cantidad de visitas 1 con un valor de :10200
+Santiago cantidad de visitas 0 con un valor de :0
+Temuco cantidad de visitas 2 con un valor de :30000
+Valdivia cantidad de visitas 1 con un valor de :13200
+Osorno cantidad de visitas 0 con un valor de :0
+Pucon cantidad de visitas 1 con un valor de :14100
+Chillan cantidad de visitas 0 con un valor de :0
+mes : 7
+ciudades
+Valparaiso cantidad de visitas 0 con un valor de :0
+Rancagua cantidad de visitas 1 con un valor de :8900
+Concepcion cantidad de visitas 1 con un valor de :12500
+Talca cantidad de visitas 2 con un valor de :20400
+Santiago cantidad de visitas 0 con un valor de :0
+Temuco cantidad de visitas 2 con un valor de :30000
+Valdivia cantidad de visitas 0 con un valor de :0
+Osorno cantidad de visitas 2 con un valor de :20000
+Pucon cantidad de visitas 1 con un valor de :14100
+Chillan cantidad de visitas 0 con un valor de :0
+mes : 8
+ciudades
+Valparaiso cantidad de visitas 2 con un valor de :15000
+Rancagua cantidad de visitas 0 con un valor de :0
+Concepcion cantidad de visitas 0 con un valor de :0
+Talca cantidad de visitas 1 con un valor de :10200
+Santiago cantidad de visitas 1 con un valor de :9600
+Temuco cantidad de visitas 0 con un valor de :0
+Valdivia cantidad de visitas 2 con un valor de :26400
+Osorno cantidad de visitas 1 con un valor de :10000
+Pucon cantidad de visitas 0 con un valor de :0
+Chillan cantidad de visitas 1 con un valor de :8500
+mes : 9
+ciudades
+Valparaiso cantidad de visitas 0 con un valor de :0
+Rancagua cantidad de visitas 0 con un valor de :0
+Concepcion cantidad de visitas 1 con un valor de :12500
+Talca cantidad de visitas 0 con un valor de :0
+Santiago cantidad de visitas 1 con un valor de :9600
+Temuco cantidad de visitas 0 con un valor de :0
+Valdivia cantidad de visitas 0 con un valor de :0
+Osorno cantidad de visitas 0 con un valor de :0
+Pucon cantidad de visitas 0 con un valor de :0
+Chillan cantidad de visitas 0 con un valor de :0
+mes : 10
+ciudades
+Valparaiso cantidad de visitas 0 con un valor de :0
+Rancagua cantidad de visitas 0 con un valor de :0
+Concepcion cantidad de visitas 0 con un valor de :0
+Talca cantidad de visitas 0 con un valor de :0
+Santiago cantidad de visitas 0 con un valor de :0
+Temuco cantidad de visitas 0 con un valor de :0
+Valdivia cantidad de visitas 2 con un valor de :26400
+Osorno cantidad de visitas 0 con un valor de :0
+Pucon cantidad de visitas 2 con un valor de :28200
+Chillan cantidad de visitas 0 con un valor de :0
+mes : 11
+ciudades
+Valparaiso cantidad de visitas 0 con un valor de :0
+Rancagua cantidad de visitas 0 con un valor de :0
+Concepcion cantidad de visitas 0 con un valor de :0
+Talca cantidad de visitas 1 con un valor de :10200
+Santiago cantidad de visitas 1 con un valor de :9600
+Temuco cantidad de visitas 0 con un valor de :0
+Valdivia cantidad de visitas 1 con un valor de :13200
+Osorno cantidad de visitas 0 con un valor de :0
+Pucon cantidad de visitas 1 con un valor de :14100
+Chillan cantidad de visitas 3 con un valor de :25500
+mes : 12
+ciudades
+Valparaiso cantidad de visitas 0 con un valor de :0
+Rancagua cantidad de visitas 1 con un valor de :8900
+Concepcion cantidad de visitas 1 con un valor de :12500
+Talca cantidad de visitas 1 con un valor de :10200
+Santiago cantidad de visitas 1 con un valor de :9600
+Temuco cantidad de visitas 0 con un valor de :0
+Valdivia cantidad de visitas 0 con un valor de :0
+Osorno cantidad de visitas 0 con un valor de :0
+Pucon cantidad de visitas 1 con un valor de :14100
+Chillan cantidad de visitas 3 con un valor de :25500

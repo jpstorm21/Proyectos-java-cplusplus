@@ -1,0 +1,15 @@
+17942458-4,Pedro,Pinnola,83672586,Pedro.Pinnola@gmail.com
+15901046-5,Jorge,Olivares,77630557,Jorge.Olivares@gmail.com
+10818474-4,Camila,Miranda,86201988,Camila.Miranda@gmail.com
+19613177-9,Carlos,Chait,79291877,Carlos.Chait@gmail.com
+15564003-0,Pablo,Telgie,88132647,Pablo.Telgie@outlook.com
+11284647-6,Constanza,Vega,87143543,Constanza.Vega@hotmail.com
+14603167-6,Carlos,Castro,79191997,Carlos.Castro@gmail.com
+11284647-6,Igor,Campos,82997803,Igor.Campos@hotmail.com
+14603167-6,Juan,Luco,88471732,Juan.Luco@gmail.com
+18437140-5,Marcos,Castillo,73455984,Marcos.Castillo@outlook.com
+13204398-1,Franco,Castro,83634680,Franco.Castro@gmail.com
+15292166-7,Paola,Vega,86308351,Paola.Vega@outlook.com
+15435351-8,Antonia,Astudillo,78277185,Antonia.Astudillo@gmail.com
+18163445-6,Camila,Pinnola,78253552,Camila.Pinnola@outlook.com
+16048312-1,Claudia,Castillo,85025135,Claudia.Castillo@hotmail.com

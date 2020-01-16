@@ -1,0 +1,147 @@
+Luis Suarez,45,La Serena,Arquitecto,7,Jose Ortega
+Mario Martinez,65,La Serena,Doctor,9,Jose Ortega
+Emiliano Pizarro,70,La Serena,Jubilado,10,Jose Ortega
+Carmen Cuellar,25,La Serena,Desempleada,3,Jose Ortega
+Maria Contreras,33,La Serena,Profesora,5,Jorge Perez
+Alvaro Pizarro,45,La Serena,Ingeniero,10,Jorge Perez
+Mario Bravo,27,La Serena,Desempleado,2,Mario Caceres
+Jorge Lopez,44,La Serena,Desempleado,7,Mario Caceres
+Gerardo Villalobos,35,La Serena,Doctor,5,Elisa Arias
+Antonia Olate,69,La Serena,Jubilada,10,Elisa Arias
+Juan Iturra,55,La Serena,Constructor,8,Camila Suazo
+Juan Hernandez,60,La Serena,Dentista,11,Camila Suazo
+Paula Gonzalez,42,La Serena,Profesora,3,Camila Suazo
+Camila Lobos,33,La Serena,Desempleada,6,Sandra Gonzalez
+Pablo Ahumada,62,La Serena,Desempleado,7,Sandra Gonzalez
+Jorge Hurtado,28,La Serena,Doctor,2,Sandra Gonzalez
+Luis Perez,39,La Serena,Constructor,6,Luis Alvarez
+Abraham Gallardo,48,La Serena,Desempleado,7,Luis Alvarez
+Cristobal Ahumada,77,La Serena,Jubilado,8,Luis Alvarez
+Michelle Bustos,23,La Serena,Estudiante,1,Luis Alvarez
+Carla Errazuriz,48,Coquimbo,Dentista,6,Emiliano Pavez
+Monserrat Perez,59,Coquimbo,Desempleada,12,Emiliano Pavez
+Camila Contreras,33,Coquimbo,Enfermera,3,Emiliano Pavez
+Francisca Martinez,25,Coquimbo,Estudiante,2,Jorge Hurtado
+Elver Toledo,66,Coquimbo,Jubilado,10,Juan Barraza
+Paulina Perez,55,Coquimbo,Desempleada,8,Juan Barraza
+Sebastian Hernandez,33,Coquimbo,Doctor,3,Juan Barraza
+Bastian Gutierrez,69,Coquimbo,Jubilado,8,Juan Barraza
+Soledad Fredes,45,Coquimbo,Enfermera,7,Maria Perez
+Ernesto Arce,66,Coquimbo,Desempleado,2,Maria Perez
+Javiera Pizarro,42,Coquimbo,Periodista,6,Juan Gallardo
+Cesar Huerta,68,Coquimbo,Jubilado,10,Juan Gallardo
+Daniela Gonzalez,45,Coquimbo,Bailarina,9,Marta Hernandez
+Cristian Zarate,33,Coquimbo,Zapatero,3,Marta Hernandez
+Amanda Urrutia,32,Coquimbo,Abogada,5,Catalina Lopez
+Matias Ortiz,27,Coquimbo,Minero,2,Catalina Lopez
+Ester Astorga,66,Coquimbo,Jubilada,7,Francisca Paredes
+Carla Briones,24,La Higuera,Estudiante,3,Mariana Contreras
+Eugenia Pasten,78,La Higuera,Jubilada,10,Mariana Contreras
+Ernesto Lara,55,La Higuera,Ingeniero,6,Mariana Contreras
+Pedro Carrasco,38,La Higuera,Desempleado,5,Felipe Pizarro
+Gladis Astorga,60,La Higuera,Cesante,8,Felipe Pizarro
+Rodrigo Ortiz,39,La Higuera,Periodista,5,Soledad Marin
+Camilo Villagra,58,La Higuera,Cantante,2,Soledad Marin
+Teresa Suazo,46,La Higuera,Aseo,6,Soledad Marin
+Cristian Olivares,55,La Higuera,Desempleado,7,Elver Gallardo
+Susana Lopez,45,La Higuera,Secretaria,5,Elver Gallardo
+Camila Monardez,25,La Higuera,Empresaria,3,Luis Molina
+Franco Trigo,19,La Higuera,Estudiante,2,Luis Molina
+Ricardo Ortega,33,La Higuera,Medico,4,Luis Molina
+Carolina Pineda,58,Andacollo,Cesante,7,Felipe Godoy
+Eduardo Zabaleta,59,Andacollo,Cesante,8,Felipe Godoy
+Loreto Araneda,56,Andacollo,Medico,6,Cristian Ortega
+Lorena Lagos,24,Andacollo,Estudiante,2,Cristian Ortega
+Patricia Galvez,39,Andacollo,Empresaria,5,Cristian Ortega
+Camilo Ruiz,88,Andacollo,Jubilado,9,Fernando Astorga
+Emilia Cortes,66,Andacollo,Jubilada,7,Fernando Astorga
+Gabriel Zarate,36,Andacollo,Profesor,6,Daniel Cuellar
+Hector Carrizo,58,Andacollo,Cesante,6,Daniel Cuellar
+Gabriela Diaz,22,Andacollo,Estudiante,2,Daniel Cuellar
+Constanza Herrera,23,Andacollo,Estudiante,3,Daniela Lopez
+Gonzalo Caceres,55,Andacollo,Cesante,5,Daniela Lopez
+Jaqueline Fernandez,40,Andacollo,Cesante,3,Benjamin Hernandez
+Yasna Uribe,39,Andacollo,Profesora,5,Benjamin Hernandez
+Daniela Bravo,25,Paihuano,Estudiante,4,Paula Gonzalez
+Elisa Saavedra,22,Paihuano,Desempleada,3,Paula Gonzalez
+Victor Jofre,69,Paihuano,Jubilado,7,Paula Gonzalez
+Sebastian Alvarez,70,Paihuano,Jubilado,8,Victor Huerta
+Mauricio Munizaga,33,Paihuano,Cesante,3,Victor Huerta
+Genesis Galleguillos,36,Paihuano,Empresaria,5,Eduardo Castillo
+Gabriela Perez,38,Paihuano,Profesora,2,Eduardo Castillo
+Hector Silva,90,Paihuano,Jubilado,8,Eduardo Castillo
+Ana Carvajal,65,Paihuano,Jubilada,3,Carlos Manzano
+Luis Fredes,34,Paihuano,Arquitecto,3,Carlos Manzano
+Jose Rodriguez,45,Paihuano,Soldado,6,Carlos Bustos
+Alberto Olivares,33,Paihuano,Boxeador,4,Carlos Bustos
+Fernanda Cortes,24,Paihuano,Estudiante,2,Carlos Bustos
+Constanza Espina,55,Ovalle,Profesora,6,Diego Jimenez
+Jorge Villagran,57,Ovalle,Medico,7,Diego Jimenez
+Cristobal Arias,36,Ovalle,Medico,3,Diego Jimenez
+Agustina Farias,76,Ovalle,Jubilada,8,Fernanda Rojas
+Rocio Vergara,34,Ovalle,Desempleada,3,Fernanda Rojas
+Victor Bravo,35,Ovalle,Constructor,5,Rocio Alvarez
+Marcelo Aranguiz,48,Ovalle,Cesante,7,Rocio Alvarez
+Rodrigo Cardenas,29,Ovalle,Ingeniero,2,Rocio Alvarez
+Italo Moreno,68,Ovalle,Profesor,8,Juan Pereira
+Cristina Alfaro,25,Ovalle,Estudiante,3,Juan Pereira
+Esteban Segovia,59,Ovalle,Cesante,7,Alvaro Ramos
+Alfredo Rosales,80,Ovalle,Jubilado,9,Alvaro Ramos
+Cristian Hurtado,30,Ovalle,Medico,3,Alvaro Ramos
+Alicia Solis,28,Ovalle,Arquitecta,3,Jose Aldunate
+Alvaro Ruiz,25,Ovalle,Estudiante,2,Jose Aldunate
+Jorge Jimenez,38,Monte Patria,Periodista,6,Manuel Cortes
+Monica Fernandez,56,Monte Patria,Profesora,8,Manuel Cortes
+Natalia Azocar,36,Monte Patria,Cesante,3,Evelin Suarez
+Evelin Gutierrez,85,Monte Patria,Jubilada,7,Evelin Suarez
+Constanza Huerta,50,Monte Patria,Medico,6,Gerardo Lobos
+Esteban Ramirez,29,Monte Patria,Cesante,3,Gerardo Lobos
+Bastian Zarate,38,Monte Patria,Cirujano,5,Gerardo Lobos
+Paula Jara,28,Monte Patria,Enfermera,3,Paulina Toledo
+Catalina Meneses,45,Monte Patria,Cesante,6,Paulina Toledo
+Cecilia Vasquez,60,Monte Patria,Jubilada,6,Paulina Toledo
+Ernesto Contreras,61,Monte Patria,Constructor,2,Francisca Ahumada
+Josefina Sanhueza,35,Monte Patria,Periodista,5,Francisca Ahumada
+Margarita Veliz,50,Monte Patria,Cesante,6,Antonia Rios
+Juan Monardes,45,Monte Patria,Profesor,5,Antonia Rios
+Carla Gallardo,22,Monte Patria,Cesante,2,antonia Rios
+Jose Suarez,30,Punitaqui,Medico,3,Abraham Bravo
+Mariana Jorquera,45,Punitaqui,Enfermera,6,Abraham Bravo
+Cristiana Ceballos,40,Punitaqui,Profesora,5,Fabian Espina
+Daniela Molina,35,Punitaqui,Mesera,3,Fabian Espina
+Soledad Olivares,60,Punitaqui,Jubilada,7,Fabian Espina
+Sandra Torres,50,Punitaqui,Chef,6,Elizabeth Bravo
+Felipe Cifuentes,30,Punitaqui,Boxeador,2,Elizabeth Bravo
+Gabriela Martinez,56,Punitaqui,Profesora,7,Elizabeth Bravo
+Maria Manzano,35,Punitaqui,Chef,5,Bruno Alves
+Marta Iturra,40,Punitaqui,Empresaria,4,Bruno Alves
+Evelin Cifuentes,22,Punitaqui,Estudiante,2,Ruben Hurtado
+Ana Lobos,60,Punitaqui,Jubilada,6,Ruben Hurtado
+Carmen Soto,55,Los Vilos,Cesante,6,Gloria Vergara
+Ricardo Pavez,30,Los Vilos,Constructor,3,Gloria Vergara
+Esteban Garrido,31,Los Vilos,Constructor,5,Gloria Vergara
+Catalina Mendez,50,Los Vilos,Astronoma,6,Carmen Herrera
+Patricio Segovia,40,Los Vilos,Cesante,3,Carmen Herrera
+Carmen Gomez,39,Los Vilos,Cantante,2,Italo Jorquera
+Luis Hurtado,38,Los Vilos,Empresario,7,Italo Jorquera
+Paulina Vega,54,Los Vilos,Profesora,8,Antonia Saavedra
+Marta Astorga,30,Los Vilos,Secretaria,3,Antonia Saavedra
+Pedro Varas,50,Los Vilos,Panadero,6,Antonia Saavedra
+Benjamin Gallardo,25,Los Vilos,Estudiante,3,Daniela Gonzalez
+Domingo Estrada,39,Los Vilos,Profesor,7,Daniela Gonzalez
+Claudia Villalobos,41,Los Vilos,Sicologa,5,Daniela Gonzalez
+Sofia Mancilla,40,Los Vilos,Enfermera,6,Cristian Arriagada
+Estefani Torres,26,Los Vilos,Cesante,3,Cristian Arriagada
+Carlos Pinto,50,Los Vilos,Medico,7,Cristian Arriagada
+Paula Avalos,22,Canela,Estudiante,3,Claudio Bravo
+Barbara Soto,40,Canela,Musico,5,Claudio Bravo
+Fabian Aviles,50,Canela,Piloto,7,Claudio Bravo
+Ester Miranda,40,Canela,Cesante,2,Mariana Villalobos
+Carlos Pizarro,60,Canela,Constructor,6,Mariana Villalobos
+Elver Soza,58,Canela,Zapatero,7,Julio Canales
+Miriam Jerez,36,Canela,Secretaria,3,Julio Canales
+Alberto Rodriguez,45,Canela,Medico,4,Julio Canales
+Alonso Castro,33,Canela,Periodista,3,Franco Iturra
+Paula Valenzuela,40,Canela,Profesora,5,Franco Iturra
+Jose Herrera,63,Canela,Cesante,7,Franco Iturra
+Ruben Guaman,42,Canela,Chef,5,Franco Iturra

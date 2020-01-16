@@ -1,0 +1,28 @@
+-------------------------------------------------------------------
+                      errores de registro                          
+-------------------------------------------------------------------
+Categoria   Campo no valido    valor del campo    error encontrado 
+-------------------------------------------------------------------
+Persona  rut   13203018-4 rut no valido 
+Persona  rut   1354o123-4 rut no valido 
+Persona  rut   asjdslkjsa rut no valido 
+Persona  correo   furioso014@outlook.com correo no valido 
+Persona  rut   1395T984-1 rut no valido 
+Persona  rut   hfdhfdfdfh rut no valido 
+Persona  correo   cMendez@hotmail.com correo no valido 
+Persona  rut   23852-0 rut no valido 
+Persona  correo   elcoqueto@com correo no valido 
+Persona  rut   hola-k rut no valido 
+Persona  correo   allmight@gma.com correo no valido 
+Persona  correo   sCastro@hotmail.com correo no valido 
+Persona  rut   10609-8 rut no valido 
+Persona  rut   14943866-8 rut no valido 
+Persona  correo   ggprogra@il.com correo no valido 
+Persona  rut   112384-7 rut no valido 
+Persona  correo   JC125@m correo no valido 
+Persona  rut   1069op57-8 rut no valido 
+Persona  correo   CataA@mail.com correo no valido 
+Persona  correo   Dani24@gma.com correo no valido 
+Persona  rut   229tt149-0 rut no valido 
+Persona  rut   16189748-7 rut no valido 
+Persona  rut   212 rut no valido 

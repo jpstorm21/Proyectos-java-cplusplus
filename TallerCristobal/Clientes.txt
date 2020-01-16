@@ -1,0 +1,531 @@
+cliente : Claudia Pedraza
+ciudades que el cliente visito
+Valparaiso cantidad de visitas de 1 con un valor de 7500
+Rancagua cantidad de visitas de 1 con un valor de 8900
+Temuco cantidad de visitas de 1 con un valor de 15000
+Chillan cantidad de visitas de 1 con un valor de 8500
+cliente : Cesar Fuentes
+ciudades que el cliente visito
+Valparaiso cantidad de visitas de 2 con un valor de 15000
+Rancagua cantidad de visitas de 2 con un valor de 17800
+Concepcion cantidad de visitas de 1 con un valor de 12500
+Talca cantidad de visitas de 1 con un valor de 10200
+Valdivia cantidad de visitas de 1 con un valor de 13200
+Osorno cantidad de visitas de 1 con un valor de 10000
+Pucon cantidad de visitas de 1 con un valor de 14100
+Chillan cantidad de visitas de 1 con un valor de 8500
+cliente : Estefani Garrido
+ciudades que el cliente visito
+Santiago cantidad de visitas de 2 con un valor de 19200
+Valdivia cantidad de visitas de 2 con un valor de 26400
+Chillan cantidad de visitas de 1 con un valor de 8500
+cliente : Gonzalo Sepulveda
+ciudades que el cliente visito
+Concepcion cantidad de visitas de 2 con un valor de 25000
+Talca cantidad de visitas de 2 con un valor de 20400
+Santiago cantidad de visitas de 1 con un valor de 9600
+Valdivia cantidad de visitas de 1 con un valor de 13200
+Pucon cantidad de visitas de 2 con un valor de 28200
+Chillan cantidad de visitas de 3 con un valor de 25500
+cliente : Valeria Valenzuela
+ciudades que el cliente visito
+Rancagua cantidad de visitas de 1 con un valor de 8900
+Talca cantidad de visitas de 2 con un valor de 20400
+Valdivia cantidad de visitas de 1 con un valor de 13200
+Osorno cantidad de visitas de 1 con un valor de 10000
+Pucon cantidad de visitas de 1 con un valor de 14100
+Chillan cantidad de visitas de 3 con un valor de 25500
+cliente : Cesar Fuentes
+ciudades que el cliente visito
+Valparaiso cantidad de visitas de 2 con un valor de 15000
+Rancagua cantidad de visitas de 2 con un valor de 17800
+Concepcion cantidad de visitas de 1 con un valor de 12500
+Talca cantidad de visitas de 1 con un valor de 10200
+Valdivia cantidad de visitas de 1 con un valor de 13200
+Osorno cantidad de visitas de 1 con un valor de 10000
+Pucon cantidad de visitas de 1 con un valor de 14100
+Chillan cantidad de visitas de 1 con un valor de 8500
+cliente : Eva Henriquez
+ciudades que el cliente visito
+Valparaiso cantidad de visitas de 1 con un valor de 7500
+Rancagua cantidad de visitas de 1 con un valor de 8900
+Talca cantidad de visitas de 1 con un valor de 10200
+Santiago cantidad de visitas de 1 con un valor de 9600
+Valdivia cantidad de visitas de 1 con un valor de 13200
+Osorno cantidad de visitas de 2 con un valor de 20000
+cliente : Ruben Guaman
+ciudades que el cliente visito
+Valparaiso cantidad de visitas de 2 con un valor de 15000
+Rancagua cantidad de visitas de 1 con un valor de 8900
+Santiago cantidad de visitas de 1 con un valor de 9600
+Temuco cantidad de visitas de 1 con un valor de 15000
+Chillan cantidad de visitas de 1 con un valor de 8500
+cliente : Juan Alvarez
+ciudades que el cliente visito
+Concepcion cantidad de visitas de 1 con un valor de 12500
+Santiago cantidad de visitas de 2 con un valor de 19200
+Temuco cantidad de visitas de 1 con un valor de 15000
+Osorno cantidad de visitas de 1 con un valor de 10000
+Pucon cantidad de visitas de 2 con un valor de 28200
+Chillan cantidad de visitas de 1 con un valor de 8500
+cliente : Julia Navarro
+ciudades que el cliente visito
+Valparaiso cantidad de visitas de 1 con un valor de 7500
+Rancagua cantidad de visitas de 1 con un valor de 8900
+Santiago cantidad de visitas de 1 con un valor de 9600
+Pucon cantidad de visitas de 1 con un valor de 14100
+cliente : Valeria Valenzuela
+ciudades que el cliente visito
+Rancagua cantidad de visitas de 1 con un valor de 8900
+Talca cantidad de visitas de 2 con un valor de 20400
+Valdivia cantidad de visitas de 1 con un valor de 13200
+Osorno cantidad de visitas de 1 con un valor de 10000
+Pucon cantidad de visitas de 1 con un valor de 14100
+Chillan cantidad de visitas de 3 con un valor de 25500
+cliente : Juan Alvarez
+ciudades que el cliente visito
+Concepcion cantidad de visitas de 1 con un valor de 12500
+Santiago cantidad de visitas de 2 con un valor de 19200
+Temuco cantidad de visitas de 1 con un valor de 15000
+Osorno cantidad de visitas de 1 con un valor de 10000
+Pucon cantidad de visitas de 2 con un valor de 28200
+Chillan cantidad de visitas de 1 con un valor de 8500
+cliente : Estefani Garrido
+ciudades que el cliente visito
+Santiago cantidad de visitas de 2 con un valor de 19200
+Valdivia cantidad de visitas de 2 con un valor de 26400
+Chillan cantidad de visitas de 1 con un valor de 8500
+cliente : Gonzalo Sepulveda
+ciudades que el cliente visito
+Concepcion cantidad de visitas de 2 con un valor de 25000
+Talca cantidad de visitas de 2 con un valor de 20400
+Santiago cantidad de visitas de 1 con un valor de 9600
+Valdivia cantidad de visitas de 1 con un valor de 13200
+Pucon cantidad de visitas de 2 con un valor de 28200
+Chillan cantidad de visitas de 3 con un valor de 25500
+cliente : Claudia Pedraza
+ciudades que el cliente visito
+Valparaiso cantidad de visitas de 1 con un valor de 7500
+Rancagua cantidad de visitas de 1 con un valor de 8900
+Temuco cantidad de visitas de 1 con un valor de 15000
+Chillan cantidad de visitas de 1 con un valor de 8500
+cliente : Ruben Guaman
+ciudades que el cliente visito
+Valparaiso cantidad de visitas de 2 con un valor de 15000
+Rancagua cantidad de visitas de 1 con un valor de 8900
+Santiago cantidad de visitas de 1 con un valor de 9600
+Temuco cantidad de visitas de 1 con un valor de 15000
+Chillan cantidad de visitas de 1 con un valor de 8500
+cliente : Juan Alvarez
+ciudades que el cliente visito
+Concepcion cantidad de visitas de 1 con un valor de 12500
+Santiago cantidad de visitas de 2 con un valor de 19200
+Temuco cantidad de visitas de 1 con un valor de 15000
+Osorno cantidad de visitas de 1 con un valor de 10000
+Pucon cantidad de visitas de 2 con un valor de 28200
+Chillan cantidad de visitas de 1 con un valor de 8500
+cliente : Eva Henriquez
+ciudades que el cliente visito
+Valparaiso cantidad de visitas de 1 con un valor de 7500
+Rancagua cantidad de visitas de 1 con un valor de 8900
+Talca cantidad de visitas de 1 con un valor de 10200
+Santiago cantidad de visitas de 1 con un valor de 9600
+Valdivia cantidad de visitas de 1 con un valor de 13200
+Osorno cantidad de visitas de 2 con un valor de 20000
+cliente : Cesar Fuentes
+ciudades que el cliente visito
+Valparaiso cantidad de visitas de 2 con un valor de 15000
+Rancagua cantidad de visitas de 2 con un valor de 17800
+Concepcion cantidad de visitas de 1 con un valor de 12500
+Talca cantidad de visitas de 1 con un valor de 10200
+Valdivia cantidad de visitas de 1 con un valor de 13200
+Osorno cantidad de visitas de 1 con un valor de 10000
+Pucon cantidad de visitas de 1 con un valor de 14100
+Chillan cantidad de visitas de 1 con un valor de 8500
+cliente : Alex Herrera
+ciudades que el cliente visito
+Pucon cantidad de visitas de 1 con un valor de 14100
+cliente : Gonzalo Sepulveda
+ciudades que el cliente visito
+Concepcion cantidad de visitas de 2 con un valor de 25000
+Talca cantidad de visitas de 2 con un valor de 20400
+Santiago cantidad de visitas de 1 con un valor de 9600
+Valdivia cantidad de visitas de 1 con un valor de 13200
+Pucon cantidad de visitas de 2 con un valor de 28200
+Chillan cantidad de visitas de 3 con un valor de 25500
+cliente : Claudia Pedraza
+ciudades que el cliente visito
+Valparaiso cantidad de visitas de 1 con un valor de 7500
+Rancagua cantidad de visitas de 1 con un valor de 8900
+Temuco cantidad de visitas de 1 con un valor de 15000
+Chillan cantidad de visitas de 1 con un valor de 8500
+cliente : Valeria Valenzuela
+ciudades que el cliente visito
+Rancagua cantidad de visitas de 1 con un valor de 8900
+Talca cantidad de visitas de 2 con un valor de 20400
+Valdivia cantidad de visitas de 1 con un valor de 13200
+Osorno cantidad de visitas de 1 con un valor de 10000
+Pucon cantidad de visitas de 1 con un valor de 14100
+Chillan cantidad de visitas de 3 con un valor de 25500
+cliente : Cesar Fuentes
+ciudades que el cliente visito
+Valparaiso cantidad de visitas de 2 con un valor de 15000
+Rancagua cantidad de visitas de 2 con un valor de 17800
+Concepcion cantidad de visitas de 1 con un valor de 12500
+Talca cantidad de visitas de 1 con un valor de 10200
+Valdivia cantidad de visitas de 1 con un valor de 13200
+Osorno cantidad de visitas de 1 con un valor de 10000
+Pucon cantidad de visitas de 1 con un valor de 14100
+Chillan cantidad de visitas de 1 con un valor de 8500
+cliente : Eva Henriquez
+ciudades que el cliente visito
+Valparaiso cantidad de visitas de 1 con un valor de 7500
+Rancagua cantidad de visitas de 1 con un valor de 8900
+Talca cantidad de visitas de 1 con un valor de 10200
+Santiago cantidad de visitas de 1 con un valor de 9600
+Valdivia cantidad de visitas de 1 con un valor de 13200
+Osorno cantidad de visitas de 2 con un valor de 20000
+cliente : Estefani Garrido
+ciudades que el cliente visito
+Santiago cantidad de visitas de 2 con un valor de 19200
+Valdivia cantidad de visitas de 2 con un valor de 26400
+Chillan cantidad de visitas de 1 con un valor de 8500
+cliente : Juan Alvarez
+ciudades que el cliente visito
+Concepcion cantidad de visitas de 1 con un valor de 12500
+Santiago cantidad de visitas de 2 con un valor de 19200
+Temuco cantidad de visitas de 1 con un valor de 15000
+Osorno cantidad de visitas de 1 con un valor de 10000
+Pucon cantidad de visitas de 2 con un valor de 28200
+Chillan cantidad de visitas de 1 con un valor de 8500
+cliente : Claudia Pedraza
+ciudades que el cliente visito
+Valparaiso cantidad de visitas de 1 con un valor de 7500
+Rancagua cantidad de visitas de 1 con un valor de 8900
+Temuco cantidad de visitas de 1 con un valor de 15000
+Chillan cantidad de visitas de 1 con un valor de 8500
+cliente : Marco Ramirez
+ciudades que el cliente visito
+Valparaiso cantidad de visitas de 1 con un valor de 7500
+cliente : Ruben Guaman
+ciudades que el cliente visito
+Valparaiso cantidad de visitas de 2 con un valor de 15000
+Rancagua cantidad de visitas de 1 con un valor de 8900
+Santiago cantidad de visitas de 1 con un valor de 9600
+Temuco cantidad de visitas de 1 con un valor de 15000
+Chillan cantidad de visitas de 1 con un valor de 8500
+cliente : Estefani Garrido
+ciudades que el cliente visito
+Santiago cantidad de visitas de 2 con un valor de 19200
+Valdivia cantidad de visitas de 2 con un valor de 26400
+Chillan cantidad de visitas de 1 con un valor de 8500
+cliente : Julia Navarro
+ciudades que el cliente visito
+Valparaiso cantidad de visitas de 1 con un valor de 7500
+Rancagua cantidad de visitas de 1 con un valor de 8900
+Santiago cantidad de visitas de 1 con un valor de 9600
+Pucon cantidad de visitas de 1 con un valor de 14100
+cliente : Gonzalo Sepulveda
+ciudades que el cliente visito
+Concepcion cantidad de visitas de 2 con un valor de 25000
+Talca cantidad de visitas de 2 con un valor de 20400
+Santiago cantidad de visitas de 1 con un valor de 9600
+Valdivia cantidad de visitas de 1 con un valor de 13200
+Pucon cantidad de visitas de 2 con un valor de 28200
+Chillan cantidad de visitas de 3 con un valor de 25500
+cliente : Sara Castillo
+ciudades que el cliente visito
+Temuco cantidad de visitas de 1 con un valor de 15000
+cliente : Juan Alvarez
+ciudades que el cliente visito
+Concepcion cantidad de visitas de 1 con un valor de 12500
+Santiago cantidad de visitas de 2 con un valor de 19200
+Temuco cantidad de visitas de 1 con un valor de 15000
+Osorno cantidad de visitas de 1 con un valor de 10000
+Pucon cantidad de visitas de 2 con un valor de 28200
+Chillan cantidad de visitas de 1 con un valor de 8500
+cliente : Eva Henriquez
+ciudades que el cliente visito
+Valparaiso cantidad de visitas de 1 con un valor de 7500
+Rancagua cantidad de visitas de 1 con un valor de 8900
+Talca cantidad de visitas de 1 con un valor de 10200
+Santiago cantidad de visitas de 1 con un valor de 9600
+Valdivia cantidad de visitas de 1 con un valor de 13200
+Osorno cantidad de visitas de 2 con un valor de 20000
+cliente : Gonzalo Sepulveda
+ciudades que el cliente visito
+Concepcion cantidad de visitas de 2 con un valor de 25000
+Talca cantidad de visitas de 2 con un valor de 20400
+Santiago cantidad de visitas de 1 con un valor de 9600
+Valdivia cantidad de visitas de 1 con un valor de 13200
+Pucon cantidad de visitas de 2 con un valor de 28200
+Chillan cantidad de visitas de 3 con un valor de 25500
+cliente : Eva Arcos
+ciudades que el cliente visito
+Santiago cantidad de visitas de 1 con un valor de 9600
+cliente : Gonzalo Sepulveda
+ciudades que el cliente visito
+Concepcion cantidad de visitas de 2 con un valor de 25000
+Talca cantidad de visitas de 2 con un valor de 20400
+Santiago cantidad de visitas de 1 con un valor de 9600
+Valdivia cantidad de visitas de 1 con un valor de 13200
+Pucon cantidad de visitas de 2 con un valor de 28200
+Chillan cantidad de visitas de 3 con un valor de 25500
+cliente : Eva Henriquez
+ciudades que el cliente visito
+Valparaiso cantidad de visitas de 1 con un valor de 7500
+Rancagua cantidad de visitas de 1 con un valor de 8900
+Talca cantidad de visitas de 1 con un valor de 10200
+Santiago cantidad de visitas de 1 con un valor de 9600
+Valdivia cantidad de visitas de 1 con un valor de 13200
+Osorno cantidad de visitas de 2 con un valor de 20000
+cliente : Valeria Valenzuela
+ciudades que el cliente visito
+Rancagua cantidad de visitas de 1 con un valor de 8900
+Talca cantidad de visitas de 2 con un valor de 20400
+Valdivia cantidad de visitas de 1 con un valor de 13200
+Osorno cantidad de visitas de 1 con un valor de 10000
+Pucon cantidad de visitas de 1 con un valor de 14100
+Chillan cantidad de visitas de 3 con un valor de 25500
+cliente : Juan Alvarez
+ciudades que el cliente visito
+Concepcion cantidad de visitas de 1 con un valor de 12500
+Santiago cantidad de visitas de 2 con un valor de 19200
+Temuco cantidad de visitas de 1 con un valor de 15000
+Osorno cantidad de visitas de 1 con un valor de 10000
+Pucon cantidad de visitas de 2 con un valor de 28200
+Chillan cantidad de visitas de 1 con un valor de 8500
+cliente : Julia Navarro
+ciudades que el cliente visito
+Valparaiso cantidad de visitas de 1 con un valor de 7500
+Rancagua cantidad de visitas de 1 con un valor de 8900
+Santiago cantidad de visitas de 1 con un valor de 9600
+Pucon cantidad de visitas de 1 con un valor de 14100
+cliente : Gonzalo Sepulveda
+ciudades que el cliente visito
+Concepcion cantidad de visitas de 2 con un valor de 25000
+Talca cantidad de visitas de 2 con un valor de 20400
+Santiago cantidad de visitas de 1 con un valor de 9600
+Valdivia cantidad de visitas de 1 con un valor de 13200
+Pucon cantidad de visitas de 2 con un valor de 28200
+Chillan cantidad de visitas de 3 con un valor de 25500
+cliente : Claudio Castillo
+ciudades que el cliente visito
+Concepcion cantidad de visitas de 1 con un valor de 12500
+cliente : Emiliano Pizarro
+ciudades que el cliente visito
+Valdivia cantidad de visitas de 1 con un valor de 13200
+cliente : Cesar Fuentes
+ciudades que el cliente visito
+Valparaiso cantidad de visitas de 2 con un valor de 15000
+Rancagua cantidad de visitas de 2 con un valor de 17800
+Concepcion cantidad de visitas de 1 con un valor de 12500
+Talca cantidad de visitas de 1 con un valor de 10200
+Valdivia cantidad de visitas de 1 con un valor de 13200
+Osorno cantidad de visitas de 1 con un valor de 10000
+Pucon cantidad de visitas de 1 con un valor de 14100
+Chillan cantidad de visitas de 1 con un valor de 8500
+cliente : Ruben Guaman
+ciudades que el cliente visito
+Valparaiso cantidad de visitas de 2 con un valor de 15000
+Rancagua cantidad de visitas de 1 con un valor de 8900
+Santiago cantidad de visitas de 1 con un valor de 9600
+Temuco cantidad de visitas de 1 con un valor de 15000
+Chillan cantidad de visitas de 1 con un valor de 8500
+cliente : Gonzalo Sepulveda
+ciudades que el cliente visito
+Concepcion cantidad de visitas de 2 con un valor de 25000
+Talca cantidad de visitas de 2 con un valor de 20400
+Santiago cantidad de visitas de 1 con un valor de 9600
+Valdivia cantidad de visitas de 1 con un valor de 13200
+Pucon cantidad de visitas de 2 con un valor de 28200
+Chillan cantidad de visitas de 3 con un valor de 25500
+cliente : Eva Henriquez
+ciudades que el cliente visito
+Valparaiso cantidad de visitas de 1 con un valor de 7500
+Rancagua cantidad de visitas de 1 con un valor de 8900
+Talca cantidad de visitas de 1 con un valor de 10200
+Santiago cantidad de visitas de 1 con un valor de 9600
+Valdivia cantidad de visitas de 1 con un valor de 13200
+Osorno cantidad de visitas de 2 con un valor de 20000
+cliente : Valeria Valenzuela
+ciudades que el cliente visito
+Rancagua cantidad de visitas de 1 con un valor de 8900
+Talca cantidad de visitas de 2 con un valor de 20400
+Valdivia cantidad de visitas de 1 con un valor de 13200
+Osorno cantidad de visitas de 1 con un valor de 10000
+Pucon cantidad de visitas de 1 con un valor de 14100
+Chillan cantidad de visitas de 3 con un valor de 25500
+cliente : Gonzalo Sepulveda
+ciudades que el cliente visito
+Concepcion cantidad de visitas de 2 con un valor de 25000
+Talca cantidad de visitas de 2 con un valor de 20400
+Santiago cantidad de visitas de 1 con un valor de 9600
+Valdivia cantidad de visitas de 1 con un valor de 13200
+Pucon cantidad de visitas de 2 con un valor de 28200
+Chillan cantidad de visitas de 3 con un valor de 25500
+cliente : Anabel Alvarado
+ciudades que el cliente visito
+Pucon cantidad de visitas de 1 con un valor de 14100
+cliente : Sofía Figueroa
+ciudades que el cliente visito
+Valdivia cantidad de visitas de 1 con un valor de 13200
+cliente : Cesar Fuentes
+ciudades que el cliente visito
+Valparaiso cantidad de visitas de 2 con un valor de 15000
+Rancagua cantidad de visitas de 2 con un valor de 17800
+Concepcion cantidad de visitas de 1 con un valor de 12500
+Talca cantidad de visitas de 1 con un valor de 10200
+Valdivia cantidad de visitas de 1 con un valor de 13200
+Osorno cantidad de visitas de 1 con un valor de 10000
+Pucon cantidad de visitas de 1 con un valor de 14100
+Chillan cantidad de visitas de 1 con un valor de 8500
+cliente : Valeria Valenzuela
+ciudades que el cliente visito
+Rancagua cantidad de visitas de 1 con un valor de 8900
+Talca cantidad de visitas de 2 con un valor de 20400
+Valdivia cantidad de visitas de 1 con un valor de 13200
+Osorno cantidad de visitas de 1 con un valor de 10000
+Pucon cantidad de visitas de 1 con un valor de 14100
+Chillan cantidad de visitas de 3 con un valor de 25500
+cliente : Julia Navarro
+ciudades que el cliente visito
+Valparaiso cantidad de visitas de 1 con un valor de 7500
+Rancagua cantidad de visitas de 1 con un valor de 8900
+Santiago cantidad de visitas de 1 con un valor de 9600
+Pucon cantidad de visitas de 1 con un valor de 14100
+cliente : Jose Molina
+ciudades que el cliente visito
+Santiago cantidad de visitas de 1 con un valor de 9600
+cliente : Cesar Fuentes
+ciudades que el cliente visito
+Valparaiso cantidad de visitas de 2 con un valor de 15000
+Rancagua cantidad de visitas de 2 con un valor de 17800
+Concepcion cantidad de visitas de 1 con un valor de 12500
+Talca cantidad de visitas de 1 con un valor de 10200
+Valdivia cantidad de visitas de 1 con un valor de 13200
+Osorno cantidad de visitas de 1 con un valor de 10000
+Pucon cantidad de visitas de 1 con un valor de 14100
+Chillan cantidad de visitas de 1 con un valor de 8500
+cliente : Juan Alvarez
+ciudades que el cliente visito
+Concepcion cantidad de visitas de 1 con un valor de 12500
+Santiago cantidad de visitas de 2 con un valor de 19200
+Temuco cantidad de visitas de 1 con un valor de 15000
+Osorno cantidad de visitas de 1 con un valor de 10000
+Pucon cantidad de visitas de 2 con un valor de 28200
+Chillan cantidad de visitas de 1 con un valor de 8500
+cliente : Gonzalo Sepulveda
+ciudades que el cliente visito
+Concepcion cantidad de visitas de 2 con un valor de 25000
+Talca cantidad de visitas de 2 con un valor de 20400
+Santiago cantidad de visitas de 1 con un valor de 9600
+Valdivia cantidad de visitas de 1 con un valor de 13200
+Pucon cantidad de visitas de 2 con un valor de 28200
+Chillan cantidad de visitas de 3 con un valor de 25500
+cliente : Cesar Fuentes
+ciudades que el cliente visito
+Valparaiso cantidad de visitas de 2 con un valor de 15000
+Rancagua cantidad de visitas de 2 con un valor de 17800
+Concepcion cantidad de visitas de 1 con un valor de 12500
+Talca cantidad de visitas de 1 con un valor de 10200
+Valdivia cantidad de visitas de 1 con un valor de 13200
+Osorno cantidad de visitas de 1 con un valor de 10000
+Pucon cantidad de visitas de 1 con un valor de 14100
+Chillan cantidad de visitas de 1 con un valor de 8500
+cliente : Cesar Salazar
+ciudades que el cliente visito
+Talca cantidad de visitas de 1 con un valor de 10200
+cliente : Maximiliano Bravo
+ciudades que el cliente visito
+Talca cantidad de visitas de 1 con un valor de 10200
+cliente : Cintia Rivera
+ciudades que el cliente visito
+Concepcion cantidad de visitas de 1 con un valor de 12500
+cliente : Cesar Fuentes
+ciudades que el cliente visito
+Valparaiso cantidad de visitas de 2 con un valor de 15000
+Rancagua cantidad de visitas de 2 con un valor de 17800
+Concepcion cantidad de visitas de 1 con un valor de 12500
+Talca cantidad de visitas de 1 con un valor de 10200
+Valdivia cantidad de visitas de 1 con un valor de 13200
+Osorno cantidad de visitas de 1 con un valor de 10000
+Pucon cantidad de visitas de 1 con un valor de 14100
+Chillan cantidad de visitas de 1 con un valor de 8500
+cliente : Ruben Guaman
+ciudades que el cliente visito
+Valparaiso cantidad de visitas de 2 con un valor de 15000
+Rancagua cantidad de visitas de 1 con un valor de 8900
+Santiago cantidad de visitas de 1 con un valor de 9600
+Temuco cantidad de visitas de 1 con un valor de 15000
+Chillan cantidad de visitas de 1 con un valor de 8500
+cliente : Valeria Valenzuela
+ciudades que el cliente visito
+Rancagua cantidad de visitas de 1 con un valor de 8900
+Talca cantidad de visitas de 2 con un valor de 20400
+Valdivia cantidad de visitas de 1 con un valor de 13200
+Osorno cantidad de visitas de 1 con un valor de 10000
+Pucon cantidad de visitas de 1 con un valor de 14100
+Chillan cantidad de visitas de 3 con un valor de 25500
+cliente : Juan Alvarez
+ciudades que el cliente visito
+Concepcion cantidad de visitas de 1 con un valor de 12500
+Santiago cantidad de visitas de 2 con un valor de 19200
+Temuco cantidad de visitas de 1 con un valor de 15000
+Osorno cantidad de visitas de 1 con un valor de 10000
+Pucon cantidad de visitas de 2 con un valor de 28200
+Chillan cantidad de visitas de 1 con un valor de 8500
+cliente : Estefani Garrido
+ciudades que el cliente visito
+Santiago cantidad de visitas de 2 con un valor de 19200
+Valdivia cantidad de visitas de 2 con un valor de 26400
+Chillan cantidad de visitas de 1 con un valor de 8500
+cliente : Cesar Fuentes
+ciudades que el cliente visito
+Valparaiso cantidad de visitas de 2 con un valor de 15000
+Rancagua cantidad de visitas de 2 con un valor de 17800
+Concepcion cantidad de visitas de 1 con un valor de 12500
+Talca cantidad de visitas de 1 con un valor de 10200
+Valdivia cantidad de visitas de 1 con un valor de 13200
+Osorno cantidad de visitas de 1 con un valor de 10000
+Pucon cantidad de visitas de 1 con un valor de 14100
+Chillan cantidad de visitas de 1 con un valor de 8500
+cliente : Valeria Valenzuela
+ciudades que el cliente visito
+Rancagua cantidad de visitas de 1 con un valor de 8900
+Talca cantidad de visitas de 2 con un valor de 20400
+Valdivia cantidad de visitas de 1 con un valor de 13200
+Osorno cantidad de visitas de 1 con un valor de 10000
+Pucon cantidad de visitas de 1 con un valor de 14100
+Chillan cantidad de visitas de 3 con un valor de 25500
+cliente : Valeria Valenzuela
+ciudades que el cliente visito
+Rancagua cantidad de visitas de 1 con un valor de 8900
+Talca cantidad de visitas de 2 con un valor de 20400
+Valdivia cantidad de visitas de 1 con un valor de 13200
+Osorno cantidad de visitas de 1 con un valor de 10000
+Pucon cantidad de visitas de 1 con un valor de 14100
+Chillan cantidad de visitas de 3 con un valor de 25500
+cliente : Ruben Guaman
+ciudades que el cliente visito
+Valparaiso cantidad de visitas de 2 con un valor de 15000
+Rancagua cantidad de visitas de 1 con un valor de 8900
+Santiago cantidad de visitas de 1 con un valor de 9600
+Temuco cantidad de visitas de 1 con un valor de 15000
+Chillan cantidad de visitas de 1 con un valor de 8500
+cliente : Eva Henriquez
+ciudades que el cliente visito
+Valparaiso cantidad de visitas de 1 con un valor de 7500
+Rancagua cantidad de visitas de 1 con un valor de 8900
+Talca cantidad de visitas de 1 con un valor de 10200
+Santiago cantidad de visitas de 1 con un valor de 9600
+Valdivia cantidad de visitas de 1 con un valor de 13200
+Osorno cantidad de visitas de 2 con un valor de 20000
+cliente : Gonzalo Sepulveda
+ciudades que el cliente visito
+Concepcion cantidad de visitas de 2 con un valor de 25000
+Talca cantidad de visitas de 2 con un valor de 20400
+Santiago cantidad de visitas de 1 con un valor de 9600
+Valdivia cantidad de visitas de 1 con un valor de 13200
+Pucon cantidad de visitas de 2 con un valor de 28200
+Chillan cantidad de visitas de 3 con un valor de 25500

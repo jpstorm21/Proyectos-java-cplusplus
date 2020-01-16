@@ -1,0 +1,1028 @@
+----------------------------
+Comuna : La Serena
+----------------------------
+----------------------------
+Censista: Jose Ortega
+----------------------------
+Persona 1:
+nombre : Luis Suarez
+edad : 45
+ocupacion : Arquitecto
+cantidad de familia : 7
+----------------------------
+Persona 2:
+nombre : Mario Martinez
+edad : 65
+ocupacion : Doctor
+cantidad de familia : 9
+----------------------------
+Persona 3:
+nombre : Emiliano Pizarro
+edad : 70
+ocupacion : Jubilado
+cantidad de familia : 10
+----------------------------
+Persona 4:
+nombre : Carmen Cuellar
+edad : 25
+ocupacion : Desempleada
+cantidad de familia : 3
+----------------------------
+Censista: Jorge Perez
+----------------------------
+Persona 1:
+nombre : Maria Contreras
+edad : 33
+ocupacion : Profesora
+cantidad de familia : 5
+----------------------------
+Persona 2:
+nombre : Alvaro Pizarro
+edad : 45
+ocupacion : Ingeniero
+cantidad de familia : 10
+----------------------------
+Censista: Mario Caceres
+----------------------------
+Persona 1:
+nombre : Mario Bravo
+edad : 27
+ocupacion : Desempleado
+cantidad de familia : 2
+----------------------------
+Persona 2:
+nombre : Jorge Lopez
+edad : 44
+ocupacion : Desempleado
+cantidad de familia : 7
+----------------------------
+Censista: Elisa Arias
+----------------------------
+Persona 1:
+nombre : Gerardo Villalobos
+edad : 35
+ocupacion : Doctor
+cantidad de familia : 5
+----------------------------
+Persona 2:
+nombre : Antonia Olate
+edad : 69
+ocupacion : Jubilada
+cantidad de familia : 10
+----------------------------
+Censista: Camila Suazo
+----------------------------
+Persona 1:
+nombre : Juan Iturra
+edad : 55
+ocupacion : Constructor
+cantidad de familia : 8
+----------------------------
+Persona 2:
+nombre : Juan Hernandez
+edad : 60
+ocupacion : Dentista
+cantidad de familia : 11
+----------------------------
+Persona 3:
+nombre : Paula Gonzalez
+edad : 42
+ocupacion : Profesora
+cantidad de familia : 3
+----------------------------
+Censista: Sandra Gonzalez
+----------------------------
+Persona 1:
+nombre : Camila Lobos
+edad : 33
+ocupacion : Desempleada
+cantidad de familia : 6
+----------------------------
+Persona 2:
+nombre : Pablo Ahumada
+edad : 62
+ocupacion : Desempleado
+cantidad de familia : 7
+----------------------------
+Persona 3:
+nombre : Jorge Hurtado
+edad : 28
+ocupacion : Doctor
+cantidad de familia : 2
+----------------------------
+Censista: Luis Alvarez
+----------------------------
+Persona 1:
+nombre : Luis Perez
+edad : 39
+ocupacion : Constructor
+cantidad de familia : 6
+----------------------------
+Persona 2:
+nombre : Abraham Gallardo
+edad : 48
+ocupacion : Desempleado
+cantidad de familia : 7
+----------------------------
+Persona 3:
+nombre : Cristobal Ahumada
+edad : 77
+ocupacion : Jubilado
+cantidad de familia : 8
+----------------------------
+Persona 4:
+nombre : Michelle Bustos
+edad : 23
+ocupacion : Estudiante
+cantidad de familia : 1
+----------------------------
+Comuna : Coquimbo
+----------------------------
+----------------------------
+Censista: Emiliano Pavez
+----------------------------
+Persona 1:
+nombre : Carla Errazuriz
+edad : 48
+ocupacion : Dentista
+cantidad de familia : 6
+----------------------------
+Persona 2:
+nombre : Monserrat Perez
+edad : 59
+ocupacion : Desempleada
+cantidad de familia : 12
+----------------------------
+Persona 3:
+nombre : Camila Contreras
+edad : 33
+ocupacion : Enfermera
+cantidad de familia : 3
+----------------------------
+Censista: Jorge Hurtado
+----------------------------
+Persona 1:
+nombre : Francisca Martinez
+edad : 25
+ocupacion : Estudiante
+cantidad de familia : 2
+----------------------------
+Censista: Juan Barraza
+----------------------------
+Persona 1:
+nombre : Elver Toledo
+edad : 66
+ocupacion : Jubilado
+cantidad de familia : 10
+----------------------------
+Persona 2:
+nombre : Paulina Perez
+edad : 55
+ocupacion : Desempleada
+cantidad de familia : 8
+----------------------------
+Persona 3:
+nombre : Sebastian Hernandez
+edad : 33
+ocupacion : Doctor
+cantidad de familia : 3
+----------------------------
+Persona 4:
+nombre : Bastian Gutierrez
+edad : 69
+ocupacion : Jubilado
+cantidad de familia : 8
+----------------------------
+Censista: Maria Perez
+----------------------------
+Persona 1:
+nombre : Soledad Fredes
+edad : 45
+ocupacion : Enfermera
+cantidad de familia : 7
+----------------------------
+Persona 2:
+nombre : Ernesto Arce
+edad : 66
+ocupacion : Desempleado
+cantidad de familia : 2
+----------------------------
+Censista: Juan Gallardo
+----------------------------
+Persona 1:
+nombre : Javiera Pizarro
+edad : 42
+ocupacion : Periodista
+cantidad de familia : 6
+----------------------------
+Persona 2:
+nombre : Cesar Huerta
+edad : 68
+ocupacion : Jubilado
+cantidad de familia : 10
+----------------------------
+Censista: Marta Hernandez
+----------------------------
+Persona 1:
+nombre : Daniela Gonzalez
+edad : 45
+ocupacion : Bailarina
+cantidad de familia : 9
+----------------------------
+Persona 2:
+nombre : Cristian Zarate
+edad : 33
+ocupacion : Zapatero
+cantidad de familia : 3
+----------------------------
+Censista: Catalina Lopez
+----------------------------
+Persona 1:
+nombre : Amanda Urrutia
+edad : 32
+ocupacion : Abogada
+cantidad de familia : 5
+----------------------------
+Persona 2:
+nombre : Matias Ortiz
+edad : 27
+ocupacion : Minero
+cantidad de familia : 2
+----------------------------
+Censista: Francisca Paredes
+----------------------------
+Persona 1:
+nombre : Ester Astorga
+edad : 66
+ocupacion : Jubilada
+cantidad de familia : 7
+----------------------------
+Comuna : La Higuera
+----------------------------
+----------------------------
+Censista: Mariana Contreras
+----------------------------
+Persona 1:
+nombre : Carla Briones
+edad : 24
+ocupacion : Estudiante
+cantidad de familia : 3
+----------------------------
+Persona 2:
+nombre : Eugenia Pasten
+edad : 78
+ocupacion : Jubilada
+cantidad de familia : 10
+----------------------------
+Persona 3:
+nombre : Ernesto Lara
+edad : 55
+ocupacion : Ingeniero
+cantidad de familia : 6
+----------------------------
+Censista: Felipe Pizarro
+----------------------------
+Persona 1:
+nombre : Pedro Carrasco
+edad : 38
+ocupacion : Desempleado
+cantidad de familia : 5
+----------------------------
+Persona 2:
+nombre : Gladis Astorga
+edad : 60
+ocupacion : Cesante
+cantidad de familia : 8
+----------------------------
+Censista: Soledad Marin
+----------------------------
+Persona 1:
+nombre : Rodrigo Ortiz
+edad : 39
+ocupacion : Periodista
+cantidad de familia : 5
+----------------------------
+Persona 2:
+nombre : Camilo Villagra
+edad : 58
+ocupacion : Cantante
+cantidad de familia : 2
+----------------------------
+Persona 3:
+nombre : Teresa Suazo
+edad : 46
+ocupacion : Aseo
+cantidad de familia : 6
+----------------------------
+Censista: Elver Gallardo
+----------------------------
+Persona 1:
+nombre : Cristian Olivares
+edad : 55
+ocupacion : Desempleado
+cantidad de familia : 7
+----------------------------
+Persona 2:
+nombre : Susana Lopez
+edad : 45
+ocupacion : Secretaria
+cantidad de familia : 5
+----------------------------
+Censista: Luis Molina
+----------------------------
+Persona 1:
+nombre : Camila Monardez
+edad : 25
+ocupacion : Empresaria
+cantidad de familia : 3
+----------------------------
+Persona 2:
+nombre : Franco Trigo
+edad : 19
+ocupacion : Estudiante
+cantidad de familia : 2
+----------------------------
+Persona 3:
+nombre : Ricardo Ortega
+edad : 33
+ocupacion : Medico
+cantidad de familia : 4
+----------------------------
+Comuna : Andacollo
+----------------------------
+----------------------------
+Censista: Daniel Cuellar
+----------------------------
+Persona 1:
+nombre : Gabriel Zarate
+edad : 36
+ocupacion : Profesor
+cantidad de familia : 6
+----------------------------
+Persona 2:
+nombre : Hector Carrizo
+edad : 58
+ocupacion : Cesante
+cantidad de familia : 6
+----------------------------
+Persona 3:
+nombre : Gabriela Diaz
+edad : 22
+ocupacion : Estudiante
+cantidad de familia : 2
+----------------------------
+Censista: Daniela Lopez
+----------------------------
+Persona 1:
+nombre : Constanza Herrera
+edad : 23
+ocupacion : Estudiante
+cantidad de familia : 3
+----------------------------
+Persona 2:
+nombre : Gonzalo Caceres
+edad : 55
+ocupacion : Cesante
+cantidad de familia : 5
+----------------------------
+Censista: Benjamin Hernandez
+----------------------------
+Persona 1:
+nombre : Jaqueline Fernandez
+edad : 40
+ocupacion : Cesante
+cantidad de familia : 3
+----------------------------
+Persona 2:
+nombre : Yasna Uribe
+edad : 39
+ocupacion : Profesora
+cantidad de familia : 5
+----------------------------
+Censista: Felipe Godoy
+----------------------------
+Persona 1:
+nombre : Carolina Pineda
+edad : 58
+ocupacion : Cesante
+cantidad de familia : 7
+----------------------------
+Persona 2:
+nombre : Eduardo Zabaleta
+edad : 59
+ocupacion : Cesante
+cantidad de familia : 8
+----------------------------
+Censista: Cristian Ortega
+----------------------------
+Persona 1:
+nombre : Loreto Araneda
+edad : 56
+ocupacion : Medico
+cantidad de familia : 6
+----------------------------
+Persona 2:
+nombre : Lorena Lagos
+edad : 24
+ocupacion : Estudiante
+cantidad de familia : 2
+----------------------------
+Persona 3:
+nombre : Patricia Galvez
+edad : 39
+ocupacion : Empresaria
+cantidad de familia : 5
+----------------------------
+Censista: Fernando Astorga
+----------------------------
+Persona 1:
+nombre : Camilo Ruiz
+edad : 88
+ocupacion : Jubilado
+cantidad de familia : 9
+----------------------------
+Persona 2:
+nombre : Emilia Cortes
+edad : 66
+ocupacion : Jubilada
+cantidad de familia : 7
+----------------------------
+Comuna : Paihuano
+----------------------------
+----------------------------
+Censista: Paula Gonzalez
+----------------------------
+Persona 1:
+nombre : Daniela Bravo
+edad : 25
+ocupacion : Estudiante
+cantidad de familia : 4
+----------------------------
+Persona 2:
+nombre : Elisa Saavedra
+edad : 22
+ocupacion : Desempleada
+cantidad de familia : 3
+----------------------------
+Persona 3:
+nombre : Victor Jofre
+edad : 69
+ocupacion : Jubilado
+cantidad de familia : 7
+----------------------------
+Censista: Victor Huerta
+----------------------------
+Persona 1:
+nombre : Sebastian Alvarez
+edad : 70
+ocupacion : Jubilado
+cantidad de familia : 8
+----------------------------
+Persona 2:
+nombre : Mauricio Munizaga
+edad : 33
+ocupacion : Cesante
+cantidad de familia : 3
+----------------------------
+Censista: Eduardo Castillo
+----------------------------
+Persona 1:
+nombre : Genesis Galleguillos
+edad : 36
+ocupacion : Empresaria
+cantidad de familia : 5
+----------------------------
+Persona 2:
+nombre : Gabriela Perez
+edad : 38
+ocupacion : Profesora
+cantidad de familia : 2
+----------------------------
+Persona 3:
+nombre : Hector Silva
+edad : 90
+ocupacion : Jubilado
+cantidad de familia : 8
+----------------------------
+Censista: Carlos Manzano
+----------------------------
+Persona 1:
+nombre : Ana Carvajal
+edad : 65
+ocupacion : Jubilada
+cantidad de familia : 3
+----------------------------
+Persona 2:
+nombre : Luis Fredes
+edad : 34
+ocupacion : Arquitecto
+cantidad de familia : 3
+----------------------------
+Censista: Carlos Bustos
+----------------------------
+Persona 1:
+nombre : Jose Rodriguez
+edad : 45
+ocupacion : Soldado
+cantidad de familia : 6
+----------------------------
+Persona 2:
+nombre : Alberto Olivares
+edad : 33
+ocupacion : Boxeador
+cantidad de familia : 4
+----------------------------
+Persona 3:
+nombre : Fernanda Cortes
+edad : 24
+ocupacion : Estudiante
+cantidad de familia : 2
+----------------------------
+Comuna : Ovalle
+----------------------------
+----------------------------
+Censista: Rocio Alvarez
+----------------------------
+Persona 1:
+nombre : Victor Bravo
+edad : 35
+ocupacion : Constructor
+cantidad de familia : 5
+----------------------------
+Persona 2:
+nombre : Marcelo Aranguiz
+edad : 48
+ocupacion : Cesante
+cantidad de familia : 7
+----------------------------
+Persona 3:
+nombre : Rodrigo Cardenas
+edad : 29
+ocupacion : Ingeniero
+cantidad de familia : 2
+----------------------------
+Censista: Juan Pereira
+----------------------------
+Persona 1:
+nombre : Italo Moreno
+edad : 68
+ocupacion : Profesor
+cantidad de familia : 8
+----------------------------
+Persona 2:
+nombre : Cristina Alfaro
+edad : 25
+ocupacion : Estudiante
+cantidad de familia : 3
+----------------------------
+Censista: Alvaro Ramos
+----------------------------
+Persona 1:
+nombre : Esteban Segovia
+edad : 59
+ocupacion : Cesante
+cantidad de familia : 7
+----------------------------
+Persona 2:
+nombre : Alfredo Rosales
+edad : 80
+ocupacion : Jubilado
+cantidad de familia : 9
+----------------------------
+Persona 3:
+nombre : Cristian Hurtado
+edad : 30
+ocupacion : Medico
+cantidad de familia : 3
+----------------------------
+Censista: Jose Aldunate
+----------------------------
+Persona 1:
+nombre : Alicia Solis
+edad : 28
+ocupacion : Arquitecta
+cantidad de familia : 3
+----------------------------
+Persona 2:
+nombre : Alvaro Ruiz
+edad : 25
+ocupacion : Estudiante
+cantidad de familia : 2
+----------------------------
+Censista: Diego Jimenez
+----------------------------
+Persona 1:
+nombre : Constanza Espina
+edad : 55
+ocupacion : Profesora
+cantidad de familia : 6
+----------------------------
+Persona 2:
+nombre : Jorge Villagran
+edad : 57
+ocupacion : Medico
+cantidad de familia : 7
+----------------------------
+Persona 3:
+nombre : Cristobal Arias
+edad : 36
+ocupacion : Medico
+cantidad de familia : 3
+----------------------------
+Censista: Fernanda Rojas
+----------------------------
+Persona 1:
+nombre : Agustina Farias
+edad : 76
+ocupacion : Jubilada
+cantidad de familia : 8
+----------------------------
+Persona 2:
+nombre : Rocio Vergara
+edad : 34
+ocupacion : Desempleada
+cantidad de familia : 3
+----------------------------
+Comuna : Monte Patria
+----------------------------
+----------------------------
+Censista: Manuel Cortes
+----------------------------
+Persona 1:
+nombre : Jorge Jimenez
+edad : 38
+ocupacion : Periodista
+cantidad de familia : 6
+----------------------------
+Persona 2:
+nombre : Monica Fernandez
+edad : 56
+ocupacion : Profesora
+cantidad de familia : 8
+----------------------------
+Censista: Evelin Suarez
+----------------------------
+Persona 1:
+nombre : Natalia Azocar
+edad : 36
+ocupacion : Cesante
+cantidad de familia : 3
+----------------------------
+Persona 2:
+nombre : Evelin Gutierrez
+edad : 85
+ocupacion : Jubilada
+cantidad de familia : 7
+----------------------------
+Censista: Gerardo Lobos
+----------------------------
+Persona 1:
+nombre : Constanza Huerta
+edad : 50
+ocupacion : Medico
+cantidad de familia : 6
+----------------------------
+Persona 2:
+nombre : Esteban Ramirez
+edad : 29
+ocupacion : Cesante
+cantidad de familia : 3
+----------------------------
+Persona 3:
+nombre : Bastian Zarate
+edad : 38
+ocupacion : Cirujano
+cantidad de familia : 5
+----------------------------
+Censista: Paulina Toledo
+----------------------------
+Persona 1:
+nombre : Paula Jara
+edad : 28
+ocupacion : Enfermera
+cantidad de familia : 3
+----------------------------
+Persona 2:
+nombre : Catalina Meneses
+edad : 45
+ocupacion : Cesante
+cantidad de familia : 6
+----------------------------
+Persona 3:
+nombre : Cecilia Vasquez
+edad : 60
+ocupacion : Jubilada
+cantidad de familia : 6
+----------------------------
+Censista: Francisca Ahumada
+----------------------------
+Persona 1:
+nombre : Ernesto Contreras
+edad : 61
+ocupacion : Constructor
+cantidad de familia : 2
+----------------------------
+Persona 2:
+nombre : Josefina Sanhueza
+edad : 35
+ocupacion : Periodista
+cantidad de familia : 5
+----------------------------
+Censista: Antonia Rios
+----------------------------
+Persona 1:
+nombre : Margarita Veliz
+edad : 50
+ocupacion : Cesante
+cantidad de familia : 6
+----------------------------
+Persona 2:
+nombre : Juan Monardes
+edad : 45
+ocupacion : Profesor
+cantidad de familia : 5
+----------------------------
+Persona 3:
+nombre : Carla Gallardo
+edad : 22
+ocupacion : Cesante
+cantidad de familia : 2
+----------------------------
+Comuna : Punitaqui
+----------------------------
+----------------------------
+Censista: Abraham Bravo
+----------------------------
+Persona 1:
+nombre : Jose Suarez
+edad : 30
+ocupacion : Medico
+cantidad de familia : 3
+----------------------------
+Persona 2:
+nombre : Mariana Jorquera
+edad : 45
+ocupacion : Enfermera
+cantidad de familia : 6
+----------------------------
+Censista: Fabian Espina
+----------------------------
+Persona 1:
+nombre : Cristiana Ceballos
+edad : 40
+ocupacion : Profesora
+cantidad de familia : 5
+----------------------------
+Persona 2:
+nombre : Daniela Molina
+edad : 35
+ocupacion : Mesera
+cantidad de familia : 3
+----------------------------
+Persona 3:
+nombre : Soledad Olivares
+edad : 60
+ocupacion : Jubilada
+cantidad de familia : 7
+----------------------------
+Censista: Elizabeth Bravo
+----------------------------
+Persona 1:
+nombre : Sandra Torres
+edad : 50
+ocupacion : Chef
+cantidad de familia : 6
+----------------------------
+Persona 2:
+nombre : Felipe Cifuentes
+edad : 30
+ocupacion : Boxeador
+cantidad de familia : 2
+----------------------------
+Persona 3:
+nombre : Gabriela Martinez
+edad : 56
+ocupacion : Profesora
+cantidad de familia : 7
+----------------------------
+Censista: Bruno Alves
+----------------------------
+Persona 1:
+nombre : Maria Manzano
+edad : 35
+ocupacion : Chef
+cantidad de familia : 5
+----------------------------
+Persona 2:
+nombre : Marta Iturra
+edad : 40
+ocupacion : Empresaria
+cantidad de familia : 4
+----------------------------
+Censista: Ruben Hurtado
+----------------------------
+Persona 1:
+nombre : Evelin Cifuentes
+edad : 22
+ocupacion : Estudiante
+cantidad de familia : 2
+----------------------------
+Persona 2:
+nombre : Ana Lobos
+edad : 60
+ocupacion : Jubilada
+cantidad de familia : 6
+----------------------------
+Comuna : Los Vilos
+----------------------------
+----------------------------
+Censista: Carmen Herrera
+----------------------------
+Persona 1:
+nombre : Catalina Mendez
+edad : 50
+ocupacion : Astronoma
+cantidad de familia : 6
+----------------------------
+Persona 2:
+nombre : Patricio Segovia
+edad : 40
+ocupacion : Cesante
+cantidad de familia : 3
+----------------------------
+Censista: Italo Jorquera
+----------------------------
+Persona 1:
+nombre : Carmen Gomez
+edad : 39
+ocupacion : Cantante
+cantidad de familia : 2
+----------------------------
+Persona 2:
+nombre : Luis Hurtado
+edad : 38
+ocupacion : Empresario
+cantidad de familia : 7
+----------------------------
+Censista: Antonia Saavedra
+----------------------------
+Persona 1:
+nombre : Paulina Vega
+edad : 54
+ocupacion : Profesora
+cantidad de familia : 8
+----------------------------
+Persona 2:
+nombre : Marta Astorga
+edad : 30
+ocupacion : Secretaria
+cantidad de familia : 3
+----------------------------
+Persona 3:
+nombre : Pedro Varas
+edad : 50
+ocupacion : Panadero
+cantidad de familia : 6
+----------------------------
+Censista: Daniela Gonzalez
+----------------------------
+Persona 1:
+nombre : Benjamin Gallardo
+edad : 25
+ocupacion : Estudiante
+cantidad de familia : 3
+----------------------------
+Persona 2:
+nombre : Domingo Estrada
+edad : 39
+ocupacion : Profesor
+cantidad de familia : 7
+----------------------------
+Persona 3:
+nombre : Claudia Villalobos
+edad : 41
+ocupacion : Sicologa
+cantidad de familia : 5
+----------------------------
+Censista: Cristian Arriagada
+----------------------------
+Persona 1:
+nombre : Sofia Mancilla
+edad : 40
+ocupacion : Enfermera
+cantidad de familia : 6
+----------------------------
+Persona 2:
+nombre : Estefani Torres
+edad : 26
+ocupacion : Cesante
+cantidad de familia : 3
+----------------------------
+Persona 3:
+nombre : Carlos Pinto
+edad : 50
+ocupacion : Medico
+cantidad de familia : 7
+----------------------------
+Censista: Gloria Vergara
+----------------------------
+Persona 1:
+nombre : Carmen Soto
+edad : 55
+ocupacion : Cesante
+cantidad de familia : 6
+----------------------------
+Persona 2:
+nombre : Ricardo Pavez
+edad : 30
+ocupacion : Constructor
+cantidad de familia : 3
+----------------------------
+Persona 3:
+nombre : Esteban Garrido
+edad : 31
+ocupacion : Constructor
+cantidad de familia : 5
+----------------------------
+Comuna : Canela
+----------------------------
+----------------------------
+Censista: Claudio Bravo
+----------------------------
+Persona 1:
+nombre : Paula Avalos
+edad : 22
+ocupacion : Estudiante
+cantidad de familia : 3
+----------------------------
+Persona 2:
+nombre : Barbara Soto
+edad : 40
+ocupacion : Musico
+cantidad de familia : 5
+----------------------------
+Persona 3:
+nombre : Fabian Aviles
+edad : 50
+ocupacion : Piloto
+cantidad de familia : 7
+----------------------------
+Censista: Mariana Villalobos
+----------------------------
+Persona 1:
+nombre : Ester Miranda
+edad : 40
+ocupacion : Cesante
+cantidad de familia : 2
+----------------------------
+Persona 2:
+nombre : Carlos Pizarro
+edad : 60
+ocupacion : Constructor
+cantidad de familia : 6
+----------------------------
+Censista: Julio Canales
+----------------------------
+Persona 1:
+nombre : Elver Soza
+edad : 58
+ocupacion : Zapatero
+cantidad de familia : 7
+----------------------------
+Persona 2:
+nombre : Miriam Jerez
+edad : 36
+ocupacion : Secretaria
+cantidad de familia : 3
+----------------------------
+Persona 3:
+nombre : Alberto Rodriguez
+edad : 45
+ocupacion : Medico
+cantidad de familia : 4
+----------------------------
+Censista: Franco Iturra
+----------------------------
+Persona 1:
+nombre : Alonso Castro
+edad : 33
+ocupacion : Periodista
+cantidad de familia : 3
+----------------------------
+Persona 2:
+nombre : Paula Valenzuela
+edad : 40
+ocupacion : Profesora
+cantidad de familia : 5
+----------------------------
+Persona 3:
+nombre : Jose Herrera
+edad : 63
+ocupacion : Cesante
+cantidad de familia : 7
+----------------------------
+Persona 4:
+nombre : Ruben Guaman
+edad : 42
+ocupacion : Chef
+cantidad de familia : 5

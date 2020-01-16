@@ -1,0 +1,5 @@
+0,danielcontreras,25
+2,jorgerivera,30
+1,danielcontreras,20
+0,jorgerivera,40
+2,danielcontreras,25

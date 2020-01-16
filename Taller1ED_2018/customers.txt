@@ -1,0 +1,20 @@
+16329180-0,Claudio López,Lastra 1209,clalop@gmail.com
+2359415-3,Juan Romero,Brisas Del Maipo 036,juarom@hotmail.es
+4990070-8,Lucía Moreno,Villavicencio 301,lucmor@hotmail.es
+12573326-3,Benjamín Rodriguez,19 De Septiembre 1456,benrod@yahoo.es
+3002473-7,Beatriz Palma,Av. 10 De Julio 464,beapal@gmail.com
+10836170-0,Mauricio Delgado,Av. Paicaví 1725,maudel@gmail.com
+18980727-9,Camila Martinez,San Francisco 1138,cammar@hotmail.com
+5591767-1,Franco Zuleta,Av. Apoquindo 3307,frazul@gmail.com
+10109680-7,Zoila Cerda,Mosqueto 478,zoicer@gmail.com
+3658624-9,Patricio González,Vista Hermosa 9999,patgon@hotmail.com
+15165882-2,Héctor Froud,Eduardo Hyatt 583,hecfro@yahoo.es
+15509401-K,Jenny Peña,Monterrey 2771,jenpea@gmail.com
+5585514-5,Enrique Otelo,Europa 2035,enrote@hotmail.es
+9351955-8,Yamiro Proud,Av. Santa María 600,yampro@yahoo.es
+15611274-7,Lucas López,Santo Domingo 1160,luclop@gmail.com
+16080461-0,Ulises Contreras,Einstein 465,ulicon@hotmail.es
+7270280-8,Vania Nilo,Cerro San Luis 9971,vannil@aol.com
+12984750-6,Rosaura Yáñez,General Parra 703,rosyae@aol.com
+2949420-7,Michael Riddle,Av. Marathon 3559,micrid@gmail.com
+9596726-4,Xin Long Ming,Progreso 8208,xilomi@mailer.cz

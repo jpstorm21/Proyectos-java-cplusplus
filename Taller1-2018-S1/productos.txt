@@ -1,0 +1,21 @@
+861428,carozzi fideos 88,450,115
+159852,carozzi fideos 75,450,124
+475165,carozzi fideos 65,450,50
+349135,carozzi fideos 5,450,174
+381126,carozzi fideos cabello angel,450,161
+888394,bebida coca cola 1L,580,80
+684467,bebida fanta 1L,580,107
+291843,bebida sprite 1L,580,156
+681157,bebida 7up 1L,550,30
+966329,te supremo 50 bolsas,2500,107
+928480,sucralosa iansa 250ml,2640,112
+227482,nestle leche polvo 1600g,8130,41
+570532,colorado jurel 300g,1000,165
+185545,banquete arroz 1kg,830,69
+280785,talliani aceite oliva 1L,2360,113
+618300,dos caballos duraznos conserva 340g,970,172
+781552,comfort papel higienico 4un 50m,1430,91
+913419,favorita papel higienico 4un 50m,980,146
+965247,soprole leche entera 1L,720,169
+830050,carozzi salsa tomate toscana 200g,350,120
+101280,malloa salsa tomate 400g,610,102

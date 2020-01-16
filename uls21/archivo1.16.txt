@@ -1,0 +1,4 @@
+Numeros repetidos: 
+Hay: 3 elementos repetidos
+Hay: 19 elementos no repetidos
+Hay: 22 elementos distintos en total

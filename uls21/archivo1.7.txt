@@ -1,0 +1,1 @@
+La sumatoria de numeros positivos es mayor que la de numeros negativos.

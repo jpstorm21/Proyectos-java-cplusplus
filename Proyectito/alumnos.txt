@@ -1,0 +1,5 @@
+juan,perez,4.0
+pedro,gonzalez,3.9
+alexis,sanchez,6.2
+barry,allen,5.6
+arturo,pratt,3.2

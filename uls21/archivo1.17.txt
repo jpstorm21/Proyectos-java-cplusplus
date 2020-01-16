@@ -1,0 +1,4 @@
+Division:
+La sumatoria de las filas pares es : 69
+La sumatoria de las columnas impares es: 166
+La division de la sumatoria de las filas pares por la sumatoria de las columnas impares es: 0.415663

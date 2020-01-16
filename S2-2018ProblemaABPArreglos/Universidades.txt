@@ -1,0 +1,6 @@
+1,u1,true,1,0.5,1
+2,u2,true,2,true
+3,u3,true,2,false
+4,u4,true,1,0.8,2
+5,u5,false,2,false
+6,ucn,true,1,0.4,2

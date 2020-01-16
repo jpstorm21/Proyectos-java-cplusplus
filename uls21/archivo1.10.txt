@@ -1,0 +1,1 @@
+El promedio de los numeros impares de la diagonal negativa es: -15

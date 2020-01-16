@@ -1,0 +1,65 @@
+XBONEG343,Anime
+XBONEG429,Multijugador
+PS4G0774,FPS
+WIUG0182,Lucha
+WIUG0115,Rol
+JUE2057,Multijugador
+JUE1973,Un jugador
+PS4G0774,Accion
+WIUG0057,Un jugador
+PS4G0435,Rol
+XBONEG488,Caceria
+PS4G0570,Visual Novel
+PS4G0658,Dificil
+WIUG0182,Un jugador
+WIUG0115,Multijugador
+PS4G0658,PvP
+JUE2083,Rol
+WIUG0057,Aventura
+PS4G0570,Un jugador
+JUE1973,Accion
+JUE1999,Primera Persona
+JUE1996,Un jugador
+XBONEG482,Rol
+WIUG0167,Un jugador
+WIUG0167,Rol
+WIUG0184,Rol
+XBONEG479,Multijugador
+WIUG0184,Accion
+JUE2057,Accion
+PS4G0658,Rol
+XBONEG343,Accion
+WIUG0184,Mundo Abierto
+WIUG0182,Multijugador
+JUE1996,Mundo Abierto
+XBONEG482,Multijugador
+WIUG0184,Un jugador
+PS4G0574,Plataforma
+XBONEG488,Aventura
+WIUG0115,Un jugador
+JUE1999,Multijugador
+WIUG0184,Dificil
+PS4G0658,Mundo Abierto
+XBONEG488,Simulador
+JUE1973,Steampunk
+PS4G0658,Multijugador
+JUE1996,Caceria
+XBONEG343,Multijugador
+PS4G0435,Estrategia
+PS4G0435,JRPG
+XBONEG482,MMORPG
+PS4G0570,Anime
+XBONEG429,Carreras
+PS4G0774,Multijugador
+PS4G0435,Un jugador
+XBONEG479,Survival
+XBONEG429,Simulador
+XBONEG343,Lucha
+PS4G0774,Shooter
+XBONEG482,Fantasia
+XBONEG429,Deportes
+JUE2057,Un jugador
+PS4G0574,Un jugador
+WIUG0057,Mundo Abierto
+JUE1996,Accion
+XBONEG479,Terror

@@ -1,0 +1,3 @@
+juegos                             cantidad vendiddas
+Tekken 7                             21
+Super Smash Bros. Wii U                             10

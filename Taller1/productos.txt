@@ -1,0 +1,40 @@
+1,Samsung Galaxy J2,129990,Telefonia
+2,Motorola Moto G3,139990,Telefonia
+3,LG K10,149990,Telefonia
+4,Smartwatch Samsung Gear S2 Sport,259990,Telefonia
+5,Regrigerador Daewoo FD-260S,179990,Electrohogar
+6,Lavadora Fensa Semi Twister 5100,99990,Electrohogar
+7,Lavadora Daewoo DWF-901S,189990,Electrohogar
+8,Licuadora Blanik BLA052,24990,Electrohogar
+9,Microondas Midea Mirror Plus,44990,Electrohogar
+10,Horno Electrico Black & Decker CTO-650,49990,Electrohogar
+11,Tablet Samsung Galaxy View,399990,Computacion
+12,Tablet Samsung Galaxy Tab S2,369990,Computacion
+13,Impresora Laser Brother HL-1212W,57990,Computacion
+14,Notebook HP 14-AC186,279990,Computacion
+15,Led LG 32LH510B,169990,TV Audio
+16,Proyector LG Mini Beam PV150G,239990,TV Audio
+17,Camara Lumix Panasonic DMC-TS30PU-A,109990,Entretenimiento
+18,Mario Kart 8,49990,Entretenimiento
+19,Super Smash Bros,49990,Entretenimiento
+20,Consola Nintendo 2DS Azul + Mario Kart 7 + Cargador,79990,Entretenimiento
+21,Sofa NTO Bremen 3 Cuerpos,189990,Muebles
+22,Sofa Ripley Home Cinnie 3 Cpos,169990,Muebles
+23,Cama Americana Celta Apolo 1 Plaza,97990,Dormitorio
+24,Cama Americana NTO Alta Mantahue 1P,119990,Dormitorio
+25,Colchon Ripley Home Basic 1PL,59990,Dormitorio
+26,Vaso Ripley Home Largo Cocodrilo Azul,1990,Ripley Home
+27,Zapatilla Nike Primo Cafe,34990,Deporte
+28,Zapatilla Puma Flare Jr,29990,Deporte
+29,Bicicleta Lahsen Rocket 2600 Aro 26 Rojo,88990,Deporte
+30,Coche KidScool 301RJ,29990,Infantil
+31,Entrenador de Baño Tiny Love 7257 Rosado,19990,Infantil
+32,Sombra L'Oreal Paris Color Richie Quad,5990,Belleza
+33,Corta Pelo Gama GC570,16990,Belleza
+34,Afeitadora Philips HQ6944,26990,Belleza
+35,Secador de Pelo Siegen SG-3011,8990,Belleza
+36,Alisador Gama Attiva,11990,Belleza
+37,Bota Bamers Classic,19990,Zapatos y Bolsos
+38,Mini Cartera Index Iker,12990,Zapatos y Bolsos
+39,Pantalon Marquis,7990,Moda
+40,Poleron Maui 5O137,16990,Moda

@@ -1,0 +1,5 @@
+juan,perez,aprobado
+pedro,gonzalez,reprobado
+alexis,sanchez,aprobado
+barry,allen,aprobado
+arturo,pratt,reprobado

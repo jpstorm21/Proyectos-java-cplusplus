@@ -1,0 +1,1 @@
+En la matriz se encontraron  una cantidad numeros positivos: 15

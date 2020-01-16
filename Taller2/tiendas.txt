@@ -1,0 +1,21 @@
+1;Almirante Juan José Latorre 2398, Antofagasta
+2;Av Chorrillos 1631 Torre 1 Local 4, Calama
+3;Colipi 484, local B125, Copiapó
+4;Av. Amunategui 489 local 106, La Serena
+5;Libertad 63 local 44, Viña del Mar
+6;Av. Américo Vespucio 3300 Local 2009, Santiago
+7;Vicuña Mackenna Oriente 7110 local 453, Santiago
+8;Av. Américo Vespucio 1501 local C345 / 3° Piso, Santiago
+9;Local 338 Nivel Manquehue, Santiago
+10;Av. Las Condes 13451 local 206, Santiago
+11;Las Urbinas 37/Av. Providencia 2125 Locales 41-42, Santiago
+12;Los Cobres de Vitacura Módulo A Local 3, Santiago
+13;Av Ossa 655, segundo piso, Santiago
+14;Av. Miguel Ramírez 1550 Loc.13, Rancagua
+15;Uno Sur 770, locales 5 y 6, Galería Cine Plaza, Talca
+16;O'Higgins 680, local 6-14, Concepción
+17;Avenida Alemania 0425 local 203, Temuco
+18;Los Laureles 075 Local 4, Valdivia
+19;Lord Cochrane 558, Osorno
+20;San Martin 189 local 3, Puerto Montt
+21;Pasaje Korner 1092, Punta Arenas

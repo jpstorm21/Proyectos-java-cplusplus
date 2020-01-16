@@ -1,0 +1,1 @@
+La suma de los bordes es : 160

@@ -1,0 +1,58 @@
+0024,Daniel Cuellar,Andacollo
+0050,Carmen Herrera,Los Vilos
+0034,Rocio Alvarez,Ovalle
+0016,Mariana Contreras,La Higuera
+0001,Jose Ortega,La Serena
+0051,Italo Jorquera,Los Vilos
+0035,Juan Pereira,Ovalle
+0008,Emiliano Pavez,Coquimbo
+0017,Felipe Pizarro,La Higuera
+0036,Alvaro Ramos,Ovalle
+0052,Antonia Saavedra,Los Vilos
+0002,Jorge Perez,La Serena
+0025,Daniela Lopez,Andacollo
+0037,Jose Aldunate,Ovalle
+0053,Daniela Gonzalez,Los Vilos
+0009,Jorge Hurtado,Coquimbo
+0018,Soledad Marin,La Higuera
+0038,Manuel Cortes,Monte Patria
+0054,Cristian Arriagada,Los Vilos
+0039,Evelin Suarez,Monte Patria
+0003,Mario Caceres,La Serena
+0055,Claudio Bravo,Canela
+0026,Benjamin Hernandez,Andacollo
+0010,Juan Barraza,Coquimbo
+0040,Gerardo Lobos,Monte Patria
+0056,Mariana Villalobos,Canela
+0019,Elver Gallardo,La Higuera
+0004,Elisa Arias,La Serena
+0041,Paulina Toledo,Monte Patria
+0042,Francisca Ahumada,Monte Patria
+0027,Paula Gonzalez,Paihuano
+0011,Maria Perez,Coquimbo
+0057,Julio Canales,Canela
+0020,Luis Molina,La Higuera
+0043,Antonia Rios,Monte Patria
+0028,Victor Huerta,Paihuano
+0005,Camila Suazo,La Serena
+0012,Juan Gallardo,Coquimbo
+0058,Franco Iturra,Canela
+0044,Abraham Bravo,Punitaqui
+0029,Eduardo Castillo,Paihuano
+0021,Felipe Godoy,Andacollo
+0045,Fabian Espina,Punitaqui
+0006,Sandra Gonzalez,La Serena
+0013,Marta Hernandez,Coquimbo
+0030,Carlos Manzano,Paihuano
+0046,Elizabeth Bravo,Punitaqui
+0022,Cristian Ortega,Andacollo
+0007,Luis Alvarez,La Serena
+0031,Carlos Bustos,Paihuano
+0047,Bruno Alves,Punitaqui
+0014,Catalina Lopez,Coquimbo
+0023,Fernando Astorga,Andacollo
+0048,Ruben Hurtado,Punitaqui
+0015,Francisca Paredes,Coquimbo
+0032,Diego Jimenez,Ovalle
+0049,Gloria Vergara,Los Vilos
+0033,Fernanda Rojas,Ovalle
